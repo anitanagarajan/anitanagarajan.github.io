@@ -218,7 +218,7 @@
     
     
     <url>
-      <loc>http://anitanagarajan.com/categories/development/</loc>
+      <loc>http://anitanagarajan.com/tags/development/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -227,7 +227,7 @@
     
     
     <url>
-      <loc>http://anitanagarajan.com/tags/development/</loc>
+      <loc>http://anitanagarajan.com/categories/development/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -245,7 +245,7 @@
     
     
     <url>
-      <loc>http://anitanagarajan.com/categories/golang/</loc>
+      <loc>http://anitanagarajan.com/tags/golang/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -254,7 +254,7 @@
     
     
     <url>
-      <loc>http://anitanagarajan.com/tags/golang/</loc>
+      <loc>http://anitanagarajan.com/categories/golang/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -281,7 +281,7 @@
     
     
     <url>
-      <loc>http://anitanagarajan.com/categories/projects/</loc>
+      <loc>http://anitanagarajan.com/tags/projects/</loc>
       <lastmod>2016-10-02T22:55:05-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -290,7 +290,7 @@
     
     
     <url>
-      <loc>http://anitanagarajan.com/tags/projects/</loc>
+      <loc>http://anitanagarajan.com/categories/projects/</loc>
       <lastmod>2016-10-02T22:55:05-04:00</lastmod>
       <priority>0</priority>
     </url>
