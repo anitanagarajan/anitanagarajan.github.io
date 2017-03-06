@@ -1,0 +1,2344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anita Nagarajan on Anita Nagarajan</title>
+    <link>http://anitanagarajan.com/index.xml</link>
+    <description>Recent content in Anita Nagarajan on Anita Nagarajan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Anita Nagarajan</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://anitanagarajan.com/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://anitanagarajan.com/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://anitanagarajan.com/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>http://anitanagarajan.com/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://anitanagarajan.com/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://anitanagarajan.com/project/deep-learning/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>http://anitanagarajan.com/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://anitanagarajan.com/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting started with the Academic framework for Hugo</title>
+      <link>http://anitanagarajan.com/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>http://anitanagarajan.com/post/getting-started/</guid>
+      <description>
+
+&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
+
+&lt;p&gt;Key features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
+&lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
+&lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;http://anitanagarajan.com/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
+&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
+&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;Easy to customize&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/#installing-hugo&#34; target=&#34;_blank&#34;&gt;Install Hugo&lt;/a&gt; and create a new website by typing the following commands in your &lt;em&gt;Terminal&lt;/em&gt; or &lt;em&gt;Command Prompt&lt;/em&gt; app:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo new site my_website
+cd my_website
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Install Academic with &lt;a href=&#34;https://help.github.com/articles/set-up-git/&#34; target=&#34;_blank&#34;&gt;git&lt;/a&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/gcushen/hugo-academic.git themes/academic
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Or alternatively, &lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;download Academic&lt;/a&gt; and extract it into a &lt;code&gt;themes/academic&lt;/code&gt; folder within your Hugo website.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If you are creating a new website, copy the contents of the &lt;code&gt;exampleSite&lt;/code&gt; folder to your website root folder, overwriting existing files if necessary. The &lt;code&gt;exampleSite&lt;/code&gt; folder contains an example config file and content to help you get started.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cp -av themes/academic/exampleSite/* .
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Start the Hugo server from your website root folder:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo server --watch
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now you can go to &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website should appear.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Customize your website - refer to the &lt;em&gt;Getting Started&lt;/em&gt; section below&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt;. Or alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as your university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
+
+&lt;p&gt;Assuming you created a new website with the example content following the installation steps above, this section explores just a few more steps in order to customize it.&lt;/p&gt;
+
+&lt;h3 id=&#34;core-parameters&#34;&gt;Core parameters&lt;/h3&gt;
+
+&lt;p&gt;The core parameters for the website can be edited in the &lt;code&gt;config.toml&lt;/code&gt; configuration file:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Set &lt;code&gt;baseurl&lt;/code&gt; to your website URL (we recommend &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt; for free hosting)&lt;/li&gt;
+&lt;li&gt;Set &lt;code&gt;title&lt;/code&gt; to your desired website title such as your name&lt;/li&gt;
+&lt;li&gt;The example Disqus commenting variable should be cleared (e.g. &lt;code&gt;disqusShortname = &amp;quot;&amp;quot;&lt;/code&gt;) or set to your own &lt;a href=&#34;https://disqus.com/&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; shortname to enable commenting&lt;/li&gt;
+&lt;li&gt;Edit your details under &lt;code&gt;[params]&lt;/code&gt;; these will be displayed mainly in the homepage &lt;em&gt;about&lt;/em&gt; and &lt;em&gt;contact&lt;/em&gt; widgets (if used). To disable a contact field, simply clear the value to &lt;code&gt;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Place a square cropped portrait photo named &lt;code&gt;portrait.jpg&lt;/code&gt; into the &lt;code&gt;static/img/&lt;/code&gt; folder, overwriting any defaults. Alternatively, you can edit the &lt;code&gt;avatar&lt;/code&gt; filepath to point to a different image name or clear the value to disable the avatar feature.&lt;/li&gt;
+&lt;li&gt;To enable LaTeX math for your site, set &lt;code&gt;math = true&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Social/academic networking links are defined as multiples of &lt;code&gt;[[params.social]]&lt;/code&gt;. They can be created or deleted as necessary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
+
+&lt;p&gt;Edit your biography in the &lt;em&gt;about&lt;/em&gt; widget &lt;code&gt;content/home/about.md&lt;/code&gt; that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables. The academic qualifications are defined as multiples of &lt;code&gt;[[education.courses]]&lt;/code&gt; and can be created or deleted as necessary. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
+
+&lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
+
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;http://anitanagarajan.com/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+
+&lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
+
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;http://anitanagarajan.com/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+
+&lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://anitanagarajan.com/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;customization-upgrading&#34;&gt;Customization &amp;amp; Upgrading&lt;/h3&gt;
+
+&lt;p&gt;Continue reading below for advanced customization tips and instructions for keeping the framework up-to-date with any improvements that become available.&lt;/p&gt;
+
+&lt;h2 id=&#34;advanced-customization&#34;&gt;Advanced customization&lt;/h2&gt;
+
+&lt;p&gt;It is possible to carry out many customizations without touching any files in &lt;code&gt;themes/academic&lt;/code&gt;, making it easier to upgrade the framework in the future.&lt;/p&gt;
+
+&lt;h3 id=&#34;navigation-menu&#34;&gt;Navigation menu&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;[[menu.main]]&lt;/code&gt; entries towards the bottom of &lt;code&gt;config.toml&lt;/code&gt; define the navigation links at the top of the website. They can be added or removed as desired.&lt;/p&gt;
+
+&lt;p&gt;To create a dropdown sub-menu, add &lt;code&gt;identifier = &amp;quot;something&amp;quot;&lt;/code&gt; to the parent item and &lt;code&gt;parent = &amp;quot;something&amp;quot;&lt;/code&gt; to the child item.&lt;/p&gt;
+
+&lt;h3 id=&#34;website-icon&#34;&gt;Website icon&lt;/h3&gt;
+
+&lt;p&gt;Save your main icon and mobile icon as square PNG images named &lt;code&gt;icon.png&lt;/code&gt; and &lt;code&gt;apple-touch-icon.png&lt;/code&gt;, respectively. Place them in your root &lt;code&gt;static/img/&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;h3 id=&#34;theme-color-css&#34;&gt;Theme color (CSS)&lt;/h3&gt;
+
+&lt;p&gt;You can link custom CSS assets (relative to your root &lt;code&gt;static/css&lt;/code&gt;) from your &lt;code&gt;config.toml&lt;/code&gt; using &lt;code&gt;custom_css = [&amp;quot;custom.css&amp;quot;]&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;For example, lets make a green theme. First, define &lt;code&gt;custom_css = [&amp;quot;green.css&amp;quot;]&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. Then we can download the example &lt;a href=&#34;https://gist.github.com/gcushen/d5525a4506b9ccf83f2bce592a895495&#34; target=&#34;_blank&#34;&gt;green theme&lt;/a&gt; and save it as &lt;code&gt;static/css/green.css&lt;/code&gt;, relative to your website root (i.e. &lt;strong&gt;not&lt;/strong&gt; in the &lt;code&gt;themes&lt;/code&gt; directory).&lt;/p&gt;
+
+&lt;h3 id=&#34;analytics&#34;&gt;Analytics&lt;/h3&gt;
+
+&lt;p&gt;To enable &lt;a href=&#34;http://www.google.com/analytics&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, add your tracking code in &lt;code&gt;config.toml&lt;/code&gt; similarly to &lt;code&gt;googleAnalytics = &amp;quot;UA-12345678-9&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;third-party-and-local-scripts-js&#34;&gt;Third party and local scripts (JS)&lt;/h3&gt;
+
+&lt;p&gt;To add a third party script, create a file named &lt;code&gt;head_custom.html&lt;/code&gt; in a &lt;code&gt;layouts/partials/&lt;/code&gt; folder at the root of your website (not in the &lt;code&gt;themes&lt;/code&gt; folder). Any HTML code added to this file will be included within your website&amp;rsquo;s &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt;. Therefore, it&amp;rsquo;s suitable for adding custom metadata or third party scripts specified with the &lt;em&gt;async&lt;/em&gt; attribute.&lt;/p&gt;
+
+&lt;p&gt;Whereas for your own local scripts, you can link your local JS assets (relative to your root &lt;code&gt;static/js&lt;/code&gt;) from your &lt;code&gt;config.toml&lt;/code&gt; using &lt;code&gt;custom_js  = [&amp;quot;custom.js&amp;quot;]&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;language-and-translation&#34;&gt;Language and translation&lt;/h3&gt;
+
+&lt;p&gt;The interface text (e.g. buttons) is stored in language files which are collected from Academic&amp;rsquo;s &lt;code&gt;themes/academic/i18n/&lt;/code&gt; folder, as well as an &lt;code&gt;i18n/&lt;/code&gt; folder at the root of your project.&lt;/p&gt;
+
+&lt;p&gt;To edit the interface text, copy &lt;code&gt;themes/academic/i18n/en.yaml&lt;/code&gt; to &lt;code&gt;i18n/en.yaml&lt;/code&gt; (relative to the root of your website). Open the new file and make any desired changes to the text appearing after &lt;code&gt;translation:&lt;/code&gt;. Note that the language files are formatted in YAML syntax.&lt;/p&gt;
+
+&lt;p&gt;To translate the interface text to another language, follow the above instructions, but name the new file in the form &lt;code&gt;i18n/X.yaml&lt;/code&gt; where &lt;code&gt;X&lt;/code&gt; is the appropriate &lt;a href=&#34;http://www.w3schools.com/tags/ref_language_codes.asp&#34; target=&#34;_blank&#34;&gt;ISO/RFC5646 language identifier&lt;/a&gt; for the translation. Then follow the brief instructions in the &lt;em&gt;Language&lt;/em&gt; section at the bottom of your &lt;code&gt;config.toml&lt;/code&gt;. To change the default language used by Academic, set &lt;code&gt;defaultContentLanguage&lt;/code&gt; to the desired language identifier in your configuration file.&lt;/p&gt;
+
+&lt;p&gt;To translate the navigation bar, you can edit the default &lt;code&gt;[[menu.main]]&lt;/code&gt; instances in &lt;code&gt;config.toml&lt;/code&gt;. However, for a multilingual site, you will need to duplicate all of the &lt;code&gt;[[menu.main]]&lt;/code&gt; instances and rename the new instances from &lt;code&gt;[[menu.main]]&lt;/code&gt; to &lt;code&gt;[[languages.X.menu.main]]&lt;/code&gt;, where &lt;code&gt;X&lt;/code&gt; is the language identifier (e.g. &lt;code&gt;[[languages.zh.menu.main]]&lt;/code&gt; for Simplified Chinese). Thus, the navigation bar can be displayed in multiple languages.&lt;/p&gt;
+
+&lt;p&gt;To translate a content file in your &lt;code&gt;content/&lt;/code&gt; folder into another language, copy the file to &lt;code&gt;filename.X.md&lt;/code&gt; where &lt;code&gt;filename&lt;/code&gt; is your existing filename and &lt;code&gt;X&lt;/code&gt; is the appropriate &lt;a href=&#34;http://www.w3schools.com/tags/ref_language_codes.asp&#34; target=&#34;_blank&#34;&gt;ISO/RFC5646 language identifier&lt;/a&gt; for the translation. Then translate the content in the new file to the specified language.&lt;/p&gt;
+
+&lt;p&gt;For further details on Hugo&amp;rsquo;s internationalization and multilingual features, refer to the &lt;a href=&#34;https://gohugo.io/content/multilingual/&#34; target=&#34;_blank&#34;&gt;associated Hugo documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;permalinks&#34;&gt;Permalinks&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Permalinks&lt;/em&gt;, or &lt;em&gt;permanent links&lt;/em&gt;, are URLs to individual pages and posts on your website. They are permanent web addresses which can be used to link to your content. Using Hugo&amp;rsquo;s &lt;em&gt;permalinks&lt;/em&gt; option these can be easily customized. For example, the blog post URL can be changed to the form &lt;em&gt;yourURL/2016/05/01/my-post-slug&lt;/em&gt; by adding the following near the top of your &lt;code&gt;config.toml&lt;/code&gt; (before &lt;code&gt;[params]&lt;/code&gt; settings):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[permalinks]
+    post = &amp;quot;/:year/:month/:day/:slug&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Where &lt;code&gt;:slug&lt;/code&gt; defaults to the filename of the post, excluding the file extension. However, slug may be overridden on a per post basis if desired, simply by setting &lt;code&gt;slug = &amp;quot;my-short-post-title&amp;quot;&lt;/code&gt; in your post preamble.&lt;/p&gt;
+
+&lt;h2 id=&#34;upgrading&#34;&gt;Upgrading&lt;/h2&gt;
+
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; and monitor the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/commits/master&#34; target=&#34;_blank&#34;&gt;commits&lt;/a&gt; for updates.&lt;/p&gt;
+
+&lt;p&gt;Before upgrading the framework, it is recommended to make a backup of your entire website directory, or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory. You can also read about the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/releases&#34; target=&#34;_blank&#34;&gt;most recent milestones&lt;/a&gt; (but this doesn&amp;rsquo;t necessarily reflect the latest &lt;em&gt;master&lt;/em&gt; release).&lt;/p&gt;
+
+&lt;p&gt;Before upgrading for the first time, the remote &lt;em&gt;origin&lt;/em&gt; repository should be renamed to &lt;em&gt;upstream&lt;/em&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd themes/academic
+$ git remote rename origin upstream
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To list available updates:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd themes/academic
+$ git fetch upstream
+$ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then, upgrade by running:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ git pull upstream
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you have modified files in &lt;code&gt;themes/academic&lt;/code&gt;, git will attempt to auto-merge changes. If conflicts are reported, you will need to manually edit the files with conflicts and add them back (&lt;code&gt;git add &amp;lt;filename&amp;gt;&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;If there are any issues after upgrading, you may wish to compare your site with the latest &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;example site&lt;/a&gt; to check if any settings changed.&lt;/p&gt;
+
+&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
+
+&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
+
+&lt;p&gt;For general questions about Hugo, there is a &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Copyright 2016 &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Customizing the homepage with widgets</title>
+      <link>http://anitanagarajan.com/post/widgets/</link>
+      <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
+      
+      <guid>http://anitanagarajan.com/post/widgets/</guid>
+      <description>
+
+&lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;About/biography&lt;/li&gt;
+&lt;li&gt;Selected publications&lt;/li&gt;
+&lt;li&gt;Recent publications&lt;/li&gt;
+&lt;li&gt;Recent news/blog posts&lt;/li&gt;
+&lt;li&gt;Projects&lt;/li&gt;
+&lt;li&gt;Selected talks&lt;/li&gt;
+&lt;li&gt;Recent talks&lt;/li&gt;
+&lt;li&gt;Contact&lt;/li&gt;
+&lt;li&gt;Custom widget (demonstrated with the &lt;em&gt;teaching&lt;/em&gt; example)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&amp;rsquo;t need and customize the parameters of the widgets you wish to keep.&lt;/p&gt;
+
+&lt;p&gt;The parameters for each widget vary. They can be found in the preamble/frontmatter (between the pair of &lt;code&gt;+++&lt;/code&gt;) for each widget installed in the &lt;code&gt;content/home/&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;By default, publications will be displayed in a simple list. If you prefer a more detailed list with abstract and image, you can enable the detailed publication list on the homepage by setting &lt;code&gt;detailed_list = true&lt;/code&gt; in &lt;code&gt;content/home/publications.md&lt;/code&gt;.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;add-a-widget-to-the-homepage&#34;&gt;Add a widget to the homepage&lt;/h2&gt;
+
+&lt;p&gt;To add a widget manually, copy the relevant widget from &lt;code&gt;themes/academic/exampleSite/content/home/&lt;/code&gt; to your &lt;code&gt;content/home/&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;p&gt;Widget identifiers are set to their respective filenames, so a &lt;code&gt;content/home/about.md&lt;/code&gt; widget can be linked from the navigation bar by setting the relevant URL as &lt;code&gt;&amp;quot;#about&amp;quot;&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;This means that if you want to use multiple instances of a widget, each widget will be assigned a unique ID based on the filename that you set. You can then use that ID for linking, like in the above example.&lt;/p&gt;
+
+&lt;h2 id=&#34;using-the-custom-widget&#34;&gt;Using the custom widget&lt;/h2&gt;
+
+&lt;p&gt;You can use the custom widget to create your own home page sections.&lt;/p&gt;
+
+&lt;p&gt;Simply duplicate (copy/paste) and rename the example &lt;em&gt;teaching&lt;/em&gt; file at &lt;code&gt;content/home/teaching.md&lt;/code&gt;. Then edit the section title, weight (refer to &lt;em&gt;Ordering sections&lt;/em&gt; below), and content as desired.&lt;/p&gt;
+
+&lt;p&gt;You may also wish to add a navigation link to the top of the page that points to the new section. This can be achieved by adding something similar to the following lines to your &lt;code&gt;config.toml&lt;/code&gt;, where the URL will consist of the first title word in lowercase:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[[menu.main]]
+    name = &amp;quot;Research&amp;quot;
+    url = &amp;quot;#research&amp;quot;
+    weight = 10
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;remove-a-widget-from-the-homepage&#34;&gt;Remove a widget from the homepage&lt;/h2&gt;
+
+&lt;p&gt;If you do not require a particular widget, you can simply delete any associated files from the &lt;code&gt;content/home/&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;p&gt;To remove a navigation link from the top of the page, remove the associated &lt;code&gt;[[menu.main]]&lt;/code&gt; entry in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;ordering-widgets&#34;&gt;Ordering widgets&lt;/h2&gt;
+
+&lt;p&gt;The order that the homepage widgets are displayed in is defined by the &lt;code&gt;weight&lt;/code&gt; parameter in each of the files in the &lt;code&gt;content/home/&lt;/code&gt; directory. The widgets are displayed in ascending order of their &lt;code&gt;weight&lt;/code&gt;, so you can simply edit the &lt;code&gt;weight&lt;/code&gt; parameters as desired.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Managing content</title>
+      <link>http://anitanagarajan.com/post/managing-content/</link>
+      <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
+      
+      <guid>http://anitanagarajan.com/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;http://anitanagarajan.com/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;http://anitanagarajan.com/post/writing-markdown-latex/#code-highlighting&#34; target=&#34;_blank&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[header]
+image = &amp;quot;headers/getting-started.png&amp;quot;
+caption = &amp;quot;Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)&amp;quot;
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;If you wish to prevent a featured image automatically being used for a post&amp;rsquo;s thumbnail on the homepage, the &lt;code&gt;preview = false&lt;/code&gt; parameter can be added to &lt;code&gt;[header]&lt;/code&gt;.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;create-a-publication&#34;&gt;Create a publication&lt;/h2&gt;
+
+&lt;p&gt;To create a new publication:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo new publication/my-paper-name.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then edit the default variables at the top of &lt;code&gt;content/publication/my-paper-name.md&lt;/code&gt; to include the details of your publication. The &lt;code&gt;url_&lt;/code&gt; variables are used to generate links associated with your publication, such as for viewing PDFs of papers. Here is an example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;+++
+abstract = &amp;quot;An abstract...&amp;quot;
+authors = [&amp;quot;First author&#39;s name&amp;quot;, &amp;quot;Second author&#39;s name&amp;quot;]
+date = &amp;quot;2013-07-01&amp;quot;
+image = &amp;quot;&amp;quot;
+image_preview = &amp;quot;&amp;quot;
+math = false
+publication = &amp;quot;The publishing part of the citation goes here. You may use *Markdown* for italics etc.&amp;quot;
+title = &amp;quot;A publication title, such as title of a paper&amp;quot;
+url_code = &amp;quot;&amp;quot;
+url_dataset = &amp;quot;&amp;quot;
+url_pdf = &amp;quot;pdf/my-paper-name.pdf&amp;quot;
+url_project = &amp;quot;&amp;quot;
+url_slides = &amp;quot;&amp;quot;
+url_video = &amp;quot;&amp;quot;
++++
+
+Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The &lt;code&gt;url_&lt;/code&gt; links can either point to local or web content. Associated local publication content, such as PDFs, may be copied to a &lt;code&gt;static/pdf/&lt;/code&gt; folder and referenced like &lt;code&gt;url_pdf = &amp;quot;pdf/my-paper-name.pdf&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can also associate custom link buttons with the publication by adding the following block(s) within the variable preamble above, which is denoted by &lt;code&gt;+++&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[[url_custom]]
+    name = &amp;quot;Custom Link&amp;quot;
+    url = &amp;quot;http://www.example.org&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you enabled &lt;code&gt;detailed_list&lt;/code&gt; for publications in &lt;code&gt;config.toml&lt;/code&gt;, then there are a few more optional variables that you can include in the publication page preamble. You may use &lt;code&gt;abstract_short = &amp;quot;friendly summary of abstract&amp;quot;&lt;/code&gt; and &lt;code&gt;publication_short = &amp;quot;abbreviated publication details&amp;quot;&lt;/code&gt; to display a friendly summary of the abstract and abbreviate the publication details, respectively. Furthermore, there is the option to display a different image on the homepage to the publication detail page by setting &lt;code&gt;image_preview = &amp;quot;my-image.jpg&amp;quot;&lt;/code&gt;. This can be useful if you wish to scale down the image for the homepage or simply if you just wish to show a different image for the preview.&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;p&gt;Any double quotes (&lt;code&gt;&amp;quot;&lt;/code&gt;) or backslashes (e.g. LaTeX &lt;code&gt;\times&lt;/code&gt;) occurring within the value of any frontmatter parameter (such as the &lt;em&gt;abstract&lt;/em&gt;) should be escaped with a backslash (&lt;code&gt;\&lt;/code&gt;). For example, the symbol &lt;code&gt;&amp;quot;&lt;/code&gt; and LaTeX text &lt;code&gt;\times&lt;/code&gt; become &lt;code&gt;\&amp;quot;&lt;/code&gt; and &lt;code&gt;\\times&lt;/code&gt;, respectively. Refer to the &lt;a href=&#34;https://github.com/toml-lang/toml#user-content-string&#34; target=&#34;_blank&#34;&gt;TOML documentation&lt;/a&gt; for more info.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;post-an-article&#34;&gt;Post an article&lt;/h2&gt;
+
+&lt;p&gt;To create a blog/news article:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo new post/my-article-name.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then edit the newly created file &lt;code&gt;content/post/my-article-name.md&lt;/code&gt; with your full title and content.&lt;/p&gt;
+
+&lt;p&gt;Hugo will automatically generate summaries of posts that appear on the homepage. If you are dissatisfied with an automated summary, you can either limit the summary length by appropriately placing &lt;code&gt;&amp;#60;&amp;#33;&amp;#45;&amp;#45;more&amp;#45;&amp;#45;&amp;#62;&lt;/code&gt; in the article body, or completely override the automated summary by adding a &lt;code&gt;summary&lt;/code&gt; parameter to the &lt;code&gt;+++&lt;/code&gt; preamble such that:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;summary = &amp;quot;Summary of my post.&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To disable commenting for a specific post, you can add &lt;code&gt;disable_comments = true&lt;/code&gt; to the post &lt;code&gt;+++&lt;/code&gt; preamble. Or to disable commenting for all posts, you can either set &lt;code&gt;disqusShortname = &amp;quot;&amp;quot;&lt;/code&gt; or &lt;code&gt;disable_comments = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-project&#34;&gt;Create a project&lt;/h2&gt;
+
+&lt;p&gt;To create a project:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo new project/my-project-name.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then edit the newly created file &lt;code&gt;content/project/my-project-name.md&lt;/code&gt;. Either you can link the project to an external project website by setting the &lt;code&gt;external_link = &amp;quot;http://external-project.com&amp;quot;&lt;/code&gt; variable at the top of the file, or you can add content (below the final &lt;code&gt;+++&lt;/code&gt;) in order to render a project page on your website.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-talk&#34;&gt;Create a talk&lt;/h2&gt;
+
+&lt;p&gt;To create a talk:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo new talk/my-talk-name.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then edit the newly created file &lt;code&gt;content/talk/my-talk-name.md&lt;/code&gt; with your full talk title and details. Note that many of the talk parameters are similar to the publication parameters.&lt;/p&gt;
+
+&lt;h2 id=&#34;manage-node-index-pages&#34;&gt;Manage node index pages&lt;/h2&gt;
+
+&lt;p&gt;The node index pages (e.g. &lt;code&gt;/post/&lt;/code&gt;) are the special pages which list all of your content. They can exist for blog posts, publications, and talks. The homepage widgets will automatically link to the node index pages when you have more items of content than can be displayed in the widget. Therefore, if you don&amp;rsquo;t have much content, you may not see the automatic links yet - but you can also manually link to them using a normal Markdown formatted link in your content.&lt;/p&gt;
+
+&lt;p&gt;You can edit the title and add your own content, such as an introduction, by creating and editing the following content files for the node indexes:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo new post/_index.md
+hugo new publication/_index.md
+hugo new talk/_index.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then remove all parameters except for &lt;code&gt;title&lt;/code&gt;, &lt;code&gt;math&lt;/code&gt;, &lt;code&gt;highlight&lt;/code&gt;, and &lt;code&gt;date&lt;/code&gt;. Edit the &lt;code&gt;title&lt;/code&gt; parameter as desired and add any content after the &lt;code&gt;+++&lt;/code&gt; preamble/frontmatter ends. For example, you should have something similar to:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;+++
+title = &amp;quot;List of my posts&amp;quot;
+date = &amp;quot;2017-01-01T00:00:00Z&amp;quot;
+math = false
+highlight = false
++++
+
+Below is an automatically generated list of all my blog posts!
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;removing-content&#34;&gt;Removing content&lt;/h2&gt;
+
+&lt;p&gt;Generally, to remove content, simply delete the relevant file from your &lt;code&gt;content/post&lt;/code&gt;, &lt;code&gt;content/publication&lt;/code&gt;, &lt;code&gt;content/project&lt;/code&gt;, or &lt;code&gt;content/talk&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;h2 id=&#34;view-your-updated-site&#34;&gt;View your updated site&lt;/h2&gt;
+
+&lt;p&gt;After you have made changes to your site, you can view it by running the &lt;code&gt;hugo server --watch&lt;/code&gt; command and then opening &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; in your web browser.&lt;/p&gt;
+
+&lt;h2 id=&#34;deploy-your-site&#34;&gt;Deploy your site&lt;/h2&gt;
+
+&lt;p&gt;Finally, you can build the static website to a &lt;code&gt;public/&lt;/code&gt; folder ready for deployment using the &lt;code&gt;hugo&lt;/code&gt; command.&lt;/p&gt;
+
+&lt;p&gt;You may then deploy your site by copying the &lt;code&gt;public/&lt;/code&gt; directory (by FTP, SFTP, WebDAV, Rsync, git push, etc.) to your production web server.&lt;/p&gt;
+
+&lt;p&gt;Note that running &lt;code&gt;hugo&lt;/code&gt; does not remove any previously generated files before building. Therefore, it&amp;rsquo;s best practice to delete your &lt;code&gt;public/&lt;/code&gt; directory prior to running &lt;code&gt;hugo&lt;/code&gt; to ensure no old or interim files are deployed to your server.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
+      <link>http://anitanagarajan.com/post/writing-markdown-latex/</link>
+      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
+      
+      <guid>http://anitanagarajan.com/post/writing-markdown-latex/</guid>
+      <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;
+
+&lt;h2 id=&#34;sub-headings&#34;&gt;Sub-headings&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;Italics with *asterisks* or _underscores_.
+
+Bold with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough with ~~two tildes~~.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;ordered-lists&#34;&gt;Ordered lists&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;1. First item
+2. Another item
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;unordered-lists&#34;&gt;Unordered lists&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;* First item
+* Another item
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;Images may be added to a page by placing them in your &lt;code&gt;static/img/&lt;/code&gt; folder and referencing them using one of the following two notations:&lt;/p&gt;
+
+&lt;p&gt;A general image:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;![alternative text for search engines](/img/screenshot.png)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;A numbered figure with caption:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; figure src=&amp;quot;/img/screenshot.png&amp;quot; title=&amp;quot;Figure Caption&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;[I&#39;m a link](https://www.google.com)
+[A post]({{&amp;lt; ref &amp;quot;post/hi.md&amp;quot; &amp;gt;}})
+[A publication]({{&amp;lt; ref &amp;quot;publication/hi.md&amp;quot; &amp;gt;}})
+[A project]({{&amp;lt; ref &amp;quot;project/hi.md&amp;quot; &amp;gt;}})
+[Another section]({{&amp;lt; relref &amp;quot;hi.md#who&amp;quot; &amp;gt;}})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;emojis&#34;&gt;Emojis&lt;/h2&gt;
+
+&lt;p&gt;See the &lt;a href=&#34;http://www.webpagefx.com/tools/emoji-cheat-sheet/&#34; target=&#34;_blank&#34;&gt;Emoji cheat sheet&lt;/a&gt; for available emoticons. The following serves as an example, but you should remove the spaces between each emoji name and pair of semicolons:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;I : heart : Academic : smile :
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I ❤️ Academic 😄&lt;/p&gt;
+
+&lt;h2 id=&#34;blockquote&#34;&gt;Blockquote&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;gt; This is a blockquote.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;footnotes&#34;&gt;Footnotes&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;I have more [^1] to say.
+
+[^1]: Footnote example.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I have more &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to say.&lt;/p&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code highlighting&lt;/h2&gt;
+
+&lt;p&gt;Pass the &lt;em&gt;language&lt;/em&gt; of the code, such as &lt;code&gt;python&lt;/code&gt;, as a parameter after three backticks:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;```python
+# Example of code highlighting
+input_string_var = input(&amp;quot;Enter some data: &amp;quot;)
+print(&amp;quot;You entered: {}&amp;quot;.format(input_string_var))
+```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Example of code highlighting
+input_string_var = input(&amp;quot;Enter some data: &amp;quot;)
+print(&amp;quot;You entered: {}&amp;quot;.format(input_string_var))
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;highlighting-options&#34;&gt;Highlighting options&lt;/h3&gt;
+
+&lt;p&gt;The Academic theme uses &lt;a href=&#34;https://highlightjs.org&#34; target=&#34;_blank&#34;&gt;highlight.js&lt;/a&gt; for source code highlighting, and highlighting is enabled by default for all pages. However, several configuration options are supported that allow finer-grained control over highlight.js.&lt;/p&gt;
+
+&lt;p&gt;The following table lists the supported options for configuring highlight.js, along with their expected type and a short description. A &amp;ldquo;yes&amp;rdquo; in the &lt;strong&gt;config.toml&lt;/strong&gt; column means the value can be set globally in &lt;code&gt;config.toml&lt;/code&gt;, and a &amp;ldquo;yes&amp;rdquo; in the &lt;strong&gt;preamble&lt;/strong&gt; column means that the value can be set locally in a particular page&amp;rsquo;s preamble.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;option&lt;/th&gt;
+&lt;th&gt;type&lt;/th&gt;
+&lt;th&gt;description&lt;/th&gt;
+&lt;th&gt;config.toml&lt;/th&gt;
+&lt;th&gt;preamble&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;highlight&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;enable/disable highlighting&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;highlight_languages&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;slice&lt;/td&gt;
+&lt;td&gt;choose additional languages&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;highlight_style&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;choose a highlighting style&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;td&gt;no&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;highlight_version&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;choose the highlight.js version&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;td&gt;no&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&#34;option-highlight&#34;&gt;Option &lt;code&gt;highlight&lt;/code&gt;&lt;/h4&gt;
+
+&lt;p&gt;The &lt;code&gt;highlight&lt;/code&gt; option allows enabling or disabling the inclusion of highlight.js, either globally or for a particular page. If the option is unset, it has the same effect as if you had specified &lt;code&gt;highlight = true&lt;/code&gt;. That is, the highlight.js javascript and css files will be included in every page. If you&amp;rsquo;d like to only include highlight.js files on pages that actually require source code highlighting, you can set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;, and then override it by setting &lt;code&gt;highlight = true&lt;/code&gt; in the preamble of any pages that require source code highlighting. Conversely, you could enable highlighting globally, and disable it locally for pages that do not require it. Here is a table that shows whether highlighting will be enabled for a page, based on the values of &lt;code&gt;highlight&lt;/code&gt; set in &lt;code&gt;config.toml&lt;/code&gt; and/or the page&amp;rsquo;s preamble.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;config.toml&lt;/th&gt;
+&lt;th&gt;page preamble&lt;/th&gt;
+&lt;th&gt;highlighting enabled for page?&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;unset or true&lt;/td&gt;
+&lt;td&gt;unset or true&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;unset or true&lt;/td&gt;
+&lt;td&gt;false&lt;/td&gt;
+&lt;td&gt;no&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;false&lt;/td&gt;
+&lt;td&gt;unset or false&lt;/td&gt;
+&lt;td&gt;no&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;false&lt;/td&gt;
+&lt;td&gt;true&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&#34;option-highlight-languages&#34;&gt;Option &lt;code&gt;highlight_languages&lt;/code&gt;&lt;/h4&gt;
+
+&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option allows you to specify additional languages that are supported by highlight.js, but are not considered &amp;ldquo;common&amp;rdquo; and therefore are not supported by default. For example, if you want source code highlighting for Go and clojure in all pages, set &lt;code&gt;highlight_languages = [&amp;quot;go&amp;quot;, &amp;quot;clojure&amp;quot;]&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. If, on the other hand, you want to enable a language only for a specific page, you can set &lt;code&gt;highlight_languages&lt;/code&gt; in that page&amp;rsquo;s preamble.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; options specified in &lt;code&gt;config.toml&lt;/code&gt; and in a page&amp;rsquo;s preamble are additive. That is, if &lt;code&gt;config.toml&lt;/code&gt; contains, &lt;code&gt;highlight_languages = [&amp;quot;go&amp;quot;]&lt;/code&gt; and the page&amp;rsquo;s preamble contains &lt;code&gt;highlight_languages = [&amp;quot;ocaml&amp;quot;]&lt;/code&gt;, then javascript files for &lt;em&gt;both&lt;/em&gt; go and ocaml will be included for that page.&lt;/p&gt;
+
+&lt;p&gt;If the &lt;code&gt;highlight_languages&lt;/code&gt; option is set, then the corresponding javascript files will be served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs server&lt;/a&gt;. To see a list of available languages, visit the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs page&lt;/a&gt; and search for links with the word &amp;ldquo;languages&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;http://anitanagarajan.com/post/getting-started/#third-party-and-local-scripts-js&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;option-highlight-style&#34;&gt;Option &lt;code&gt;highlight_style&lt;/code&gt;&lt;/h4&gt;
+
+&lt;p&gt;The &lt;code&gt;highlight_style&lt;/code&gt; option allows you to select an alternate css style for highlighted code. For example, if you wanted to use the solarized-dark style, you could set &lt;code&gt;highlight_style = &amp;quot;solarized-dark&amp;quot;&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;If the &lt;code&gt;highlight_style&lt;/code&gt; option is unset, the default is to use the file &lt;code&gt;/css/highlight.min.css&lt;/code&gt;, either the one provided by the Academic theme, or else the one in your local &lt;code&gt;static&lt;/code&gt; directory.  The &lt;code&gt;/css/highlight.min.css&lt;/code&gt; file provided by Academic is equivalent to the &lt;code&gt;github&lt;/code&gt; style from highlight.js.&lt;/p&gt;
+
+&lt;p&gt;If the &lt;code&gt;highlight_style&lt;/code&gt; option &lt;em&gt;is&lt;/em&gt; set, then &lt;code&gt;/css/highlight.min.css&lt;/code&gt; is ignored, and the corresponding css file will be served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs server&lt;/a&gt;. To see a list of available styles, visit the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs page&lt;/a&gt; and search for links with the word &amp;ldquo;styles&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;See the &lt;a href=&#34;https://highlightjs.org/static/demo/&#34; target=&#34;_blank&#34;&gt;highlight.js demo page&lt;/a&gt; for examples of available styles.&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Not all styles listed on the &lt;a href=&#34;https://highlightjs.org/static/demo/&#34; target=&#34;_blank&#34;&gt;highlight.js demo page&lt;/a&gt; are available from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs server&lt;/a&gt;. If you want to use a style that is not served by cdnjs, just leave &lt;code&gt;highlight_style&lt;/code&gt; unset, and place the corresponding css file in &lt;code&gt;/static/css/highlight.min.css&lt;/code&gt;.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;If you don&amp;rsquo;t want to change the default style that ships with Academic but you do want the style file served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs server&lt;/a&gt;, set &lt;code&gt;highlight_style = &amp;quot;github&amp;quot;&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;The &lt;code&gt;highlight_style&lt;/code&gt; option is only recognized when set in &lt;code&gt;config.toml&lt;/code&gt;. Setting &lt;code&gt;highlight_style&lt;/code&gt; in your page&amp;rsquo;s preamble has no effect.&lt;/p&gt;
+
+&lt;h4 id=&#34;option-highlight-version&#34;&gt;Option &lt;code&gt;highlight_version&lt;/code&gt;&lt;/h4&gt;
+
+&lt;p&gt;The &lt;code&gt;highlight_version&lt;/code&gt; option, as the name implies, allows you to select the version of highlight.js you want to use. The default value is &amp;ldquo;9.9.0&amp;rdquo;. The &lt;code&gt;highlight_version&lt;/code&gt; option is only recognized when set in &lt;code&gt;config.toml&lt;/code&gt;. Setting &lt;code&gt;highlight_version&lt;/code&gt; in your page&amp;rsquo;s preamble has no effect.&lt;/p&gt;
+
+&lt;h2 id=&#34;twitter-tweet&#34;&gt;Twitter tweet&lt;/h2&gt;
+
+&lt;p&gt;To include a single tweet, pass the tweet’s ID from the tweet&amp;rsquo;s URL as parameter to the shortcode:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; tweet 666616452582129664 &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;youtube&#34;&gt;Youtube&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;vimeo&#34;&gt;Vimeo&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; vimeo 146022717 &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;github-gist&#34;&gt;GitHub gist&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; gist USERNAME GIST-ID  &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;speaker-deck&#34;&gt;Speaker Deck&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; speakerdeck 4e8126e72d853c0060001f97 &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;rm-latex-math&#34;&gt;$\rm \LaTeX$ math&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-TeX&#34;&gt;$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$&lt;/p&gt;
+
+&lt;p&gt;Alternatively, inline math can be written by wrapping the formula with only a single &lt;code&gt;$&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$&lt;/p&gt;
+
+&lt;h2 id=&#34;table&#34;&gt;Table&lt;/h2&gt;
+
+&lt;p&gt;Code:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-Markdown&#34;&gt;| Command           | Description                    |
+| ------------------| ------------------------------ |
+| `hugo`            | Build your website.            |
+| `hugo serve -w`   | View your website.             |
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Build your website.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hugo serve -w&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;View your website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;alerts&#34;&gt;Alerts&lt;/h2&gt;
+
+&lt;p&gt;Alerts are a useful feature that add side content such as tips, notes, or warnings to your articles. They are especially handy when writing educational tutorial-style articles. Use the corresponding shortcodes to enable alerts inside your content:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% alert note %}}
+Here&#39;s a tip or note...
+{{% /alert %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This will display the following &lt;em&gt;note&lt;/em&gt; block:&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Here&amp;rsquo;s a tip or note&amp;hellip;&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;pre&gt;&lt;code&gt;{{% alert warning %}}
+Here&#39;s some important information...
+{{% /alert %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This will display the following &lt;em&gt;warning&lt;/em&gt; block:&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;p&gt;Here&amp;rsquo;s some important information&amp;hellip;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Footnote example.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>http://anitanagarajan.com/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://anitanagarajan.com/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>http://anitanagarajan.com/blog/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://anitanagarajan.com/blog/creating-a-new-theme/</guid>
+      <description>
+
+&lt;h3 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;
+
+&lt;p&gt;In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added to explain a point. When I show updates to a file, the &amp;ldquo;:wq&amp;rdquo; on the last line means to save the file.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;package main
+
+import &amp;quot;fmt&amp;quot;
+
+func main() {
+    fmt.Print(&amp;quot;Hello&amp;quot;)
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;There are a few concepts that you need to understand before creating a theme.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;skins&#34;&gt;Skins&lt;/h3&gt;
+
+&lt;p&gt;Skins are the files responsible for the look and feel of your site. It’s the CSS that controls colors and fonts, it’s the Javascript that determines actions and reactions. It’s also the rules that Hugo uses to transform your content into the HTML that the site will serve to visitors.&lt;/p&gt;
+
+&lt;p&gt;You have two ways to create a skin. The simplest way is to create it in the &lt;code&gt;layouts/&lt;/code&gt; directory. If you do, then you don’t have to worry about configuring Hugo to recognize it. The first place that Hugo will look for rules and files is in the &lt;code&gt;layouts/&lt;/code&gt; directory so it will always find the skin.&lt;/p&gt;
+
+&lt;p&gt;Your second choice is to create it in a sub-directory of the &lt;code&gt;themes/&lt;/code&gt; directory. If you do, then you must always tell Hugo where to search for the skin. It’s extra work, though, so why bother with it?&lt;/p&gt;
+
+&lt;p&gt;The difference between creating a skin in &lt;code&gt;layouts/&lt;/code&gt; and creating it in &lt;code&gt;themes/&lt;/code&gt; is very subtle. A skin in &lt;code&gt;layouts/&lt;/code&gt; can’t be customized without updating the templates and static files that it is built from. A skin created in &lt;code&gt;themes/&lt;/code&gt;, on the other hand, can be and that makes it easier for other people to use it.&lt;/p&gt;
+
+&lt;p&gt;The rest of this tutorial will call a skin created in the &lt;code&gt;themes/&lt;/code&gt; directory a theme.&lt;/p&gt;
+
+&lt;p&gt;Note that you can use this tutorial to create a skin in the &lt;code&gt;layouts/&lt;/code&gt; directory if you wish to. The main difference will be that you won’t need to update the site’s configuration file to use a theme.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-home-page&#34;&gt;The Home Page&lt;/h3&gt;
+
+&lt;p&gt;The home page, or landing page, is the first page that many visitors to a site see. It is the index.html file in the root directory of the web site. Since Hugo writes files to the public/ directory, our home page is public/index.html.&lt;/p&gt;
+
+&lt;h3 id=&#34;site-configuration-file&#34;&gt;Site Configuration File&lt;/h3&gt;
+
+&lt;p&gt;When Hugo runs, it looks for a configuration file that contains settings that override default values for the entire site. The file can use TOML, YAML, or JSON. I prefer to use TOML for my configuration files. If you prefer to use JSON or YAML, you’ll need to translate my examples. You’ll also need to change the name of the file since Hugo uses the extension to determine how to process it.&lt;/p&gt;
+
+&lt;p&gt;Hugo translates Markdown files into HTML. By default, Hugo expects to find Markdown files in your &lt;code&gt;content/&lt;/code&gt; directory and template files in your &lt;code&gt;themes/&lt;/code&gt; directory. It will create HTML files in your &lt;code&gt;public/&lt;/code&gt; directory. You can change this by specifying alternate locations in the configuration file.&lt;/p&gt;
+
+&lt;h3 id=&#34;content&#34;&gt;Content&lt;/h3&gt;
+
+&lt;p&gt;Content is stored in text files that contain two sections. The first section is the “front matter,” which is the meta-information on the content. The second section contains Markdown that will be converted to HTML.&lt;/p&gt;
+
+&lt;h4 id=&#34;front-matter&#34;&gt;Front Matter&lt;/h4&gt;
+
+&lt;p&gt;The front matter is information about the content. Like the configuration file, it can be written in TOML, YAML, or JSON. Unlike the configuration file, Hugo doesn’t use the file’s extension to know the format. It looks for markers to signal the type. TOML is surrounded by “&lt;code&gt;+++&lt;/code&gt;”, YAML by “&lt;code&gt;---&lt;/code&gt;”, and JSON is enclosed in curly braces. I prefer to use TOML, so you’ll need to translate my examples if you prefer YAML or JSON.&lt;/p&gt;
+
+&lt;p&gt;The information in the front matter is passed into the template before the content is rendered into HTML.&lt;/p&gt;
+
+&lt;h4 id=&#34;markdown&#34;&gt;Markdown&lt;/h4&gt;
+
+&lt;p&gt;Content is written in Markdown which makes it easier to create the content. Hugo runs the content through a Markdown engine to create the HTML which will be written to the output file.&lt;/p&gt;
+
+&lt;h3 id=&#34;template-files&#34;&gt;Template Files&lt;/h3&gt;
+
+&lt;p&gt;Hugo uses template files to render content into HTML. Template files are a bridge between the content and presentation. Rules in the template define what content is published, where it&amp;rsquo;s published to, and how it will rendered to the HTML file. The template guides the presentation by specifying the style to use.&lt;/p&gt;
+
+&lt;p&gt;There are three types of templates: single, list, and partial. Each type takes a bit of content as input and transforms it based on the commands in the template.&lt;/p&gt;
+
+&lt;p&gt;Hugo uses its knowledge of the content to find the template file used to render the content. If it can’t find a template that is an exact match for the content, it will shift up a level and search from there. It will continue to do so until it finds a matching template or runs out of templates to try. If it can’t find a template, it will use the default template for the site.&lt;/p&gt;
+
+&lt;p&gt;Please note that you can use the front matter to influence Hugo’s choice of templates.&lt;/p&gt;
+
+&lt;h4 id=&#34;single-template&#34;&gt;Single Template&lt;/h4&gt;
+
+&lt;p&gt;A single template is used to render a single piece of content. For example, an article or post would be a single piece of content and use a single template.&lt;/p&gt;
+
+&lt;h4 id=&#34;list-template&#34;&gt;List Template&lt;/h4&gt;
+
+&lt;p&gt;A list template renders a group of related content. That could be a summary of recent postings or all articles in a category. List templates can contain multiple groups.&lt;/p&gt;
+
+&lt;p&gt;The homepage template is a special type of list template. Hugo assumes that the home page of your site will act as the portal for the rest of the content in the site.&lt;/p&gt;
+
+&lt;h4 id=&#34;partial-template&#34;&gt;Partial Template&lt;/h4&gt;
+
+&lt;p&gt;A partial template is a template that can be included in other templates. Partial templates must be called using the “partial” template command. They are very handy for rolling up common behavior. For example, your site may have a banner that all pages use. Instead of copying the text of the banner into every single and list template, you could create a partial with the banner in it. That way if you decide to change the banner, you only have to change the partial template.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-new-site&#34;&gt;Create a New Site&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s use Hugo to create a new web site. I&amp;rsquo;m a Mac user, so I&amp;rsquo;ll create mine in my home directory, in the Sites folder. If you&amp;rsquo;re using Linux, you might have to create the folder first.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;new site&amp;rdquo; command will create a skeleton of a site. It will give you the basic directory structure and a useable configuration file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo new site ~/Sites/zafta
+$ cd ~/Sites/zafta
+$ ls -l
+total 8
+drwxr-xr-x  7 quoha  staff  238 Sep 29 16:49 .
+drwxr-xr-x  3 quoha  staff  102 Sep 29 16:49 ..
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
+-rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Take a look in the content/ directory to confirm that it is empty.&lt;/p&gt;
+
+&lt;p&gt;The other directories (archetypes/, layouts/, and static/) are used when customizing a theme. That&amp;rsquo;s a topic for a different tutorial, so please ignore them for now.&lt;/p&gt;
+
+&lt;h3 id=&#34;generate-the-html-for-the-new-site&#34;&gt;Generate the HTML For the New Site&lt;/h3&gt;
+
+&lt;p&gt;Running the &lt;code&gt;hugo&lt;/code&gt; command with no options will read all the available content and generate the HTML files. It will also copy all static files (that&amp;rsquo;s everything that&amp;rsquo;s not content). Since we have an empty site, it won&amp;rsquo;t do much, but it will do it very quickly.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo --verbose
+INFO: 2014/09/29 Using config file: config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
+WARN: 2014/09/29 Unable to locate layout: [404.html]
+0 draft content 
+0 future content 
+0 pages created 
+0 tags created
+0 categories created
+in 2 ms
+$ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The &amp;ldquo;&lt;code&gt;--verbose&lt;/code&gt;&amp;rdquo; flag gives extra information that will be helpful when we build the template. Every line of the output that starts with &amp;ldquo;INFO:&amp;rdquo; or &amp;ldquo;WARN:&amp;rdquo; is present because we used that flag. The lines that start with &amp;ldquo;WARN:&amp;rdquo; are warning messages. We&amp;rsquo;ll go over them later.&lt;/p&gt;
+
+&lt;p&gt;We can verify that the command worked by looking at the directory again.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ls -l
+total 8
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
+-rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:02 public
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;See that new public/ directory? Hugo placed all generated content there. When you&amp;rsquo;re ready to publish your web site, that&amp;rsquo;s the place to start. For now, though, let&amp;rsquo;s just confirm that we have what we&amp;rsquo;d expect from a site with no content.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ls -l public
+total 16
+-rw-r--r--  1 quoha  staff  416 Sep 29 17:02 index.xml
+-rw-r--r--  1 quoha  staff  262 Sep 29 17:02 sitemap.xml
+$ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Hugo created two XML files, which is standard, but there are no HTML files.&lt;/p&gt;
+
+&lt;h3 id=&#34;test-the-new-site&#34;&gt;Test the New Site&lt;/h3&gt;
+
+&lt;p&gt;Verify that you can run the built-in web server. It will dramatically shorten your development cycle if you do. Start it by running the &amp;ldquo;server&amp;rdquo; command. If it is successful, you will see output similar to the following:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo server --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
+WARN: 2014/09/29 Unable to locate layout: [404.html]
+0 draft content 
+0 future content 
+0 pages created 
+0 tags created
+0 categories created
+in 2 ms
+Serving pages from /Users/quoha/Sites/zafta/public
+Web Server is available at http://localhost:1313
+Press Ctrl+C to stop
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Connect to the listed URL (it&amp;rsquo;s on the line that starts with &amp;ldquo;Web Server&amp;rdquo;). If everything is working correctly, you should get a page that shows the following:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;index.xml
+sitemap.xml
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That&amp;rsquo;s a listing of your public/ directory. Hugo didn&amp;rsquo;t create a home page because our site has no content. When there&amp;rsquo;s no index.html file in a directory, the server lists the files in the directory, which is what you should see in your browser.&lt;/p&gt;
+
+&lt;p&gt;Let’s go back and look at those warnings again.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
+WARN: 2014/09/29 Unable to locate layout: [404.html]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That second warning is easier to explain. We haven’t created a template to be used to generate “page not found errors.” The 404 message is a topic for a separate tutorial.&lt;/p&gt;
+
+&lt;p&gt;Now for the first warning. It is for the home page. You can tell because the first layout that it looked for was “index.html.” That’s only used by the home page.&lt;/p&gt;
+
+&lt;p&gt;I like that the verbose flag causes Hugo to list the files that it&amp;rsquo;s searching for. For the home page, they are index.html, _default/list.html, and _default/single.html. There are some rules that we&amp;rsquo;ll cover later that explain the names and paths. For now, just remember that Hugo couldn&amp;rsquo;t find a template for the home page and it told you so.&lt;/p&gt;
+
+&lt;p&gt;At this point, you&amp;rsquo;ve got a working installation and site that we can build upon. All that’s left is to add some content and a theme to display it.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-new-theme&#34;&gt;Create a New Theme&lt;/h2&gt;
+
+&lt;p&gt;Hugo doesn&amp;rsquo;t ship with a default theme. There are a few available (I counted a dozen when I first installed Hugo) and Hugo comes with a command to create new themes.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re going to create a new theme called &amp;ldquo;zafta.&amp;rdquo; Since the goal of this tutorial is to show you how to fill out the files to pull in your content, the theme will not contain any CSS. In other words, ugly but functional.&lt;/p&gt;
+
+&lt;p&gt;All themes have opinions on content and layout. For example, Zafta uses &amp;ldquo;post&amp;rdquo; over &amp;ldquo;blog&amp;rdquo;. Strong opinions make for simpler templates but differing opinions make it tougher to use themes. When you build a theme, consider using the terms that other themes do.&lt;/p&gt;
+
+&lt;h3 id=&#34;create-a-skeleton&#34;&gt;Create a Skeleton&lt;/h3&gt;
+
+&lt;p&gt;Use the hugo &amp;ldquo;new&amp;rdquo; command to create the skeleton of a theme. This creates the directory structure and places empty files for you to fill out.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo new theme zafta
+
+$ ls -l
+total 8
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
+-rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:02 public
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
+drwxr-xr-x  3 quoha  staff  102 Sep 29 17:31 themes
+
+$ find themes -type f | xargs ls -l
+-rw-r--r--  1 quoha  staff  1081 Sep 29 17:31 themes/zafta/LICENSE.md
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/archetypes/default.md
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/_default/single.html
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/index.html
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
+-rw-r--r--  1 quoha  staff    93 Sep 29 17:31 themes/zafta/theme.toml
+$ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The skeleton includes templates (the files ending in .html), license file, a description of your theme (the theme.toml file), and an empty archetype.&lt;/p&gt;
+
+&lt;p&gt;Please take a minute to fill out the theme.toml and LICENSE.md files. They&amp;rsquo;re optional, but if you&amp;rsquo;re going to be distributing your theme, it tells the world who to praise (or blame). It&amp;rsquo;s also nice to declare the license so that people will know how they can use the theme.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/theme.toml
+author = &amp;quot;michael d henderson&amp;quot;
+description = &amp;quot;a minimal working template&amp;quot;
+license = &amp;quot;MIT&amp;quot;
+name = &amp;quot;zafta&amp;quot;
+source_repo = &amp;quot;&amp;quot;
+tags = [&amp;quot;tags&amp;quot;, &amp;quot;categories&amp;quot;]
+:wq
+
+## also edit themes/zafta/LICENSE.md and change
+## the bit that says &amp;quot;YOUR_NAME_HERE&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note that the the skeleton&amp;rsquo;s template files are empty. Don&amp;rsquo;t worry, we&amp;rsquo;ll be changing that shortly.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find themes/zafta -name &#39;*.html&#39; | xargs ls -l
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/single.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/index.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;update-the-configuration-file-to-use-the-theme&#34;&gt;Update the Configuration File to Use the Theme&lt;/h3&gt;
+
+&lt;p&gt;Now that we&amp;rsquo;ve got a theme to work with, it&amp;rsquo;s a good idea to add the theme name to the configuration file. This is optional, because you can always add &amp;ldquo;-t zafta&amp;rdquo; on all your commands. I like to put it the configuration file because I like shorter command lines. If you don&amp;rsquo;t put it in the configuration file or specify it on the command line, you won&amp;rsquo;t use the template that you&amp;rsquo;re expecting to.&lt;/p&gt;
+
+&lt;p&gt;Edit the file to add the theme, add a title for the site, and specify that all of our content will use the TOML format.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi config.toml
+theme = &amp;quot;zafta&amp;quot;
+baseurl = &amp;quot;&amp;quot;
+languageCode = &amp;quot;en-us&amp;quot;
+title = &amp;quot;zafta - totally refreshing&amp;quot;
+MetaDataFormat = &amp;quot;toml&amp;quot;
+:wq
+
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;generate-the-site&#34;&gt;Generate the Site&lt;/h3&gt;
+
+&lt;p&gt;Now that we have an empty theme, let&amp;rsquo;s generate the site again.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+0 pages created 
+0 tags created
+0 categories created
+in 2 ms
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Did you notice that the output is different? The warning message for the home page has disappeared and we have an additional information line saying that Hugo is syncing from the theme&amp;rsquo;s directory.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s check the public/ directory to see what Hugo&amp;rsquo;s created.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ls -l public
+total 16
+drwxr-xr-x  2 quoha  staff   68 Sep 29 17:56 css
+-rw-r--r--  1 quoha  staff    0 Sep 29 17:56 index.html
+-rw-r--r--  1 quoha  staff  407 Sep 29 17:56 index.xml
+drwxr-xr-x  2 quoha  staff   68 Sep 29 17:56 js
+-rw-r--r--  1 quoha  staff  243 Sep 29 17:56 sitemap.xml
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Notice four things:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Hugo created a home page. This is the file public/index.html.&lt;/li&gt;
+&lt;li&gt;Hugo created a css/ directory.&lt;/li&gt;
+&lt;li&gt;Hugo created a js/ directory.&lt;/li&gt;
+&lt;li&gt;Hugo claimed that it created 0 pages. It created a file and copied over static files, but didn&amp;rsquo;t create any pages. That&amp;rsquo;s because it considers a &amp;ldquo;page&amp;rdquo; to be a file created directly from a content file. It doesn&amp;rsquo;t count things like the index.html files that it creates automatically.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;the-home-page-1&#34;&gt;The Home Page&lt;/h4&gt;
+
+&lt;p&gt;Hugo supports many different types of templates. The home page is special because it gets its own type of template and its own template file. The file, layouts/index.html, is used to generate the HTML for the home page. The Hugo documentation says that this is the only required template, but that depends. Hugo&amp;rsquo;s warning message shows that it looks for three different templates:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If it can&amp;rsquo;t find any of these, it completely skips creating the home page. We noticed that when we built the site without having a theme installed.&lt;/p&gt;
+
+&lt;p&gt;When Hugo created our theme, it created an empty home page template. Now, when we build the site, Hugo finds the template and uses it to generate the HTML for the home page. Since the template file is empty, the HTML file is empty, too. If the template had any rules in it, then Hugo would have used them to generate the home page.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find . -name index.html | xargs ls -l
+-rw-r--r--  1 quoha  staff  0 Sep 29 20:21 ./public/index.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 ./themes/zafta/layouts/index.html
+$ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;the-magic-of-static&#34;&gt;The Magic of Static&lt;/h4&gt;
+
+&lt;p&gt;Hugo does two things when generating the site. It uses templates to transform content into HTML and it copies static files into the site. Unlike content, static files are not transformed. They are copied exactly as they are.&lt;/p&gt;
+
+&lt;p&gt;Hugo assumes that your site will use both CSS and JavaScript, so it creates directories in your theme to hold them. Remember opinions? Well, Hugo&amp;rsquo;s opinion is that you&amp;rsquo;ll store your CSS in a directory named css/ and your JavaScript in a directory named js/. If you don&amp;rsquo;t like that, you can change the directory names in your theme directory or even delete them completely. Hugo&amp;rsquo;s nice enough to offer its opinion, then behave nicely if you disagree.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find themes/zafta -type d | xargs ls -ld
+drwxr-xr-x  7 quoha  staff  238 Sep 29 17:38 themes/zafta
+drwxr-xr-x  3 quoha  staff  102 Sep 29 17:31 themes/zafta/archetypes
+drwxr-xr-x  5 quoha  staff  170 Sep 29 17:31 themes/zafta/layouts
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/layouts/_default
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/layouts/partials
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/static
+drwxr-xr-x  2 quoha  staff   68 Sep 29 17:31 themes/zafta/static/css
+drwxr-xr-x  2 quoha  staff   68 Sep 29 17:31 themes/zafta/static/js
+$ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;the-theme-development-cycle&#34;&gt;The Theme Development Cycle&lt;/h2&gt;
+
+&lt;p&gt;When you&amp;rsquo;re working on a theme, you will make changes in the theme&amp;rsquo;s directory, rebuild the site, and check your changes in the browser. Hugo makes this very easy:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Purge the public/ directory.&lt;/li&gt;
+&lt;li&gt;Run the built in web server in watch mode.&lt;/li&gt;
+&lt;li&gt;Open your site in a browser.&lt;/li&gt;
+&lt;li&gt;Update the theme.&lt;/li&gt;
+&lt;li&gt;Glance at your browser window to see changes.&lt;/li&gt;
+&lt;li&gt;Return to step 4.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’ll throw in one more opinion: never work on a theme on a live site. Always work on a copy of your site. Make changes to your theme, test them, then copy them up to your site. For added safety, use a tool like Git to keep a revision history of your content and your theme. Believe me when I say that it is too easy to lose both your mind and your changes.&lt;/p&gt;
+
+&lt;p&gt;Check the main Hugo site for information on using Git with Hugo.&lt;/p&gt;
+
+&lt;h3 id=&#34;purge-the-public-directory&#34;&gt;Purge the public/ Directory&lt;/h3&gt;
+
+&lt;p&gt;When generating the site, Hugo will create new files and update existing ones in the &lt;code&gt;public/&lt;/code&gt; directory. It will not delete files that are no longer used. For example, files that were created in the wrong directory or with the wrong title will remain. If you leave them, you might get confused by them later. I recommend cleaning out your site prior to generating it.&lt;/p&gt;
+
+&lt;p&gt;Note: If you&amp;rsquo;re building on an SSD, you should ignore this. Churning on a SSD can be costly.&lt;/p&gt;
+
+&lt;h3 id=&#34;hugo-s-watch-option&#34;&gt;Hugo&amp;rsquo;s Watch Option&lt;/h3&gt;
+
+&lt;p&gt;Hugo&amp;rsquo;s &amp;ldquo;&lt;code&gt;--watch&lt;/code&gt;&amp;rdquo; option will monitor the content/ and your theme directories for changes and rebuild the site automatically.&lt;/p&gt;
+
+&lt;h3 id=&#34;live-reload&#34;&gt;Live Reload&lt;/h3&gt;
+
+&lt;p&gt;Hugo&amp;rsquo;s built in web server supports live reload. As pages are saved on the server, the browser is told to refresh the page. Usually, this happens faster than you can say, &amp;ldquo;Wow, that&amp;rsquo;s totally amazing.&amp;rdquo;&lt;/p&gt;
+
+&lt;h3 id=&#34;development-commands&#34;&gt;Development Commands&lt;/h3&gt;
+
+&lt;p&gt;Use the following commands as the basis for your workflow.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;## purge old files. hugo will recreate the public directory.
+##
+$ rm -rf public
+##
+## run hugo in watch mode
+##
+$ hugo server --watch --verbose
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here&amp;rsquo;s sample output showing Hugo detecting a change to the template for the home page. Once generated, the web browser automatically reloaded the page. I&amp;rsquo;ve said this before, it&amp;rsquo;s amazing.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rm -rf public
+$ hugo server --watch --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+0 pages created 
+0 tags created
+0 categories created
+in 2 ms
+Watching for changes in /Users/quoha/Sites/zafta/content
+Serving pages from /Users/quoha/Sites/zafta/public
+Web Server is available at http://localhost:1313
+Press Ctrl+C to stop
+INFO: 2014/09/29 File System Event: [&amp;quot;/Users/quoha/Sites/zafta/themes/zafta/layouts/index.html&amp;quot;: MODIFY|ATTRIB]
+Change detected, rebuilding site
+
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+0 pages created 
+0 tags created
+0 categories created
+in 1 ms
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;update-the-home-page-template&#34;&gt;Update the Home Page Template&lt;/h2&gt;
+
+&lt;p&gt;The home page is one of a few special pages that Hugo creates automatically. As mentioned earlier, it looks for one of three files in the theme&amp;rsquo;s layout/ directory:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;index.html&lt;/li&gt;
+&lt;li&gt;_default/list.html&lt;/li&gt;
+&lt;li&gt;_default/single.html&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We could update one of the default templates, but a good design decision is to update the most specific template available. That&amp;rsquo;s not a hard and fast rule (in fact, we&amp;rsquo;ll break it a few times in this tutorial), but it is a good generalization.&lt;/p&gt;
+
+&lt;h3 id=&#34;make-a-static-home-page&#34;&gt;Make a Static Home Page&lt;/h3&gt;
+
+&lt;p&gt;Right now, that page is empty because we don&amp;rsquo;t have any content and we don&amp;rsquo;t have any logic in the template. Let&amp;rsquo;s change that by adding some text to the template.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;$ vi themes/zafta/layouts/index.html
+&amp;lt;!DOCTYPE html&amp;gt; 
+&amp;lt;html&amp;gt; 
+&amp;lt;body&amp;gt; 
+  &amp;lt;p&amp;gt;hugo says hello!&amp;lt;/p&amp;gt; 
+&amp;lt;/body&amp;gt; 
+&amp;lt;/html&amp;gt; 
+:wq
+
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Build the web site and then verify the results.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+0 pages created 
+0 tags created
+0 categories created
+in 2 ms
+
+$ find public -type f -name &#39;*.html&#39; | xargs ls -l
+-rw-r--r--  1 quoha  staff  78 Sep 29 21:26 public/index.html
+
+$ cat public/index.html 
+&amp;lt;!DOCTYPE html&amp;gt; 
+&amp;lt;html&amp;gt; 
+&amp;lt;body&amp;gt; 
+  &amp;lt;p&amp;gt;hugo says hello!&amp;lt;/p&amp;gt; 
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;live-reload-1&#34;&gt;Live Reload&lt;/h4&gt;
+
+&lt;p&gt;Note: If you&amp;rsquo;re running the server with the &lt;code&gt;--watch&lt;/code&gt; option, you&amp;rsquo;ll see different content in the file:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cat public/index.html 
+&amp;lt;!DOCTYPE html&amp;gt; 
+&amp;lt;html&amp;gt; 
+&amp;lt;body&amp;gt; 
+  &amp;lt;p&amp;gt;hugo says hello!&amp;lt;/p&amp;gt; 
+&amp;lt;script&amp;gt;document.write(&#39;&amp;lt;script src=&amp;quot;http://&#39; 
+        + (location.host || &#39;localhost&#39;).split(&#39;:&#39;)[0] 
+    + &#39;:1313/livereload.js?mindelay=10&amp;quot;&amp;gt;&amp;lt;/&#39; 
+        + &#39;script&amp;gt;&#39;)&amp;lt;/script&amp;gt;&amp;lt;/body&amp;gt; 
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;When you use &lt;code&gt;--watch&lt;/code&gt;, the Live Reload script is added by Hugo. Look for live reload in the documentation to see what it does and how to disable it.&lt;/p&gt;
+
+&lt;h3 id=&#34;build-a-dynamic-home-page&#34;&gt;Build a &amp;ldquo;Dynamic&amp;rdquo; Home Page&lt;/h3&gt;
+
+&lt;p&gt;&amp;ldquo;Dynamic home page?&amp;rdquo; Hugo&amp;rsquo;s a static web site generator, so this seems an odd thing to say. I mean let&amp;rsquo;s have the home page automatically reflect the content in the site every time Hugo builds it. We&amp;rsquo;ll use iteration in the template to do that.&lt;/p&gt;
+
+&lt;h4 id=&#34;create-new-posts&#34;&gt;Create New Posts&lt;/h4&gt;
+
+&lt;p&gt;Now that we have the home page generating static content, let&amp;rsquo;s add some content to the site. We&amp;rsquo;ll display these posts as a list on the home page and on their own page, too.&lt;/p&gt;
+
+&lt;p&gt;Hugo has a command to generate a skeleton post, just like it does for sites and themes.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ hugo --verbose new post/first.md
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 attempting to create  post/first.md of post
+INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/default.md
+ERROR: 2014/09/29 Unable to Cast &amp;lt;nil&amp;gt; to map[string]interface{}
+
+$ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That wasn&amp;rsquo;t very nice, was it?&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;new&amp;rdquo; command uses an archetype to create the post file. Hugo created an empty default archetype file, but that causes an error when there&amp;rsquo;s a theme. For me, the workaround was to create an archetypes file specifically for the post type.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/archetypes/post.md
++++
+Description = &amp;quot;&amp;quot;
+Tags = []
+Categories = []
++++
+:wq
+
+$ find themes/zafta/archetypes -type f | xargs ls -l
+-rw-r--r--  1 quoha  staff   0 Sep 29 21:53 themes/zafta/archetypes/default.md
+-rw-r--r--  1 quoha  staff  51 Sep 29 21:54 themes/zafta/archetypes/post.md
+
+$ hugo --verbose new post/first.md
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 attempting to create  post/first.md of post
+INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/post.md
+INFO: 2014/09/29 creating /Users/quoha/Sites/zafta/content/post/first.md
+/Users/quoha/Sites/zafta/content/post/first.md created
+
+$ hugo --verbose new post/second.md
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 attempting to create  post/second.md of post
+INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/post.md
+INFO: 2014/09/29 creating /Users/quoha/Sites/zafta/content/post/second.md
+/Users/quoha/Sites/zafta/content/post/second.md created
+
+$ ls -l content/post
+total 16
+-rw-r--r--  1 quoha  staff  104 Sep 29 21:54 first.md
+-rw-r--r--  1 quoha  staff  105 Sep 29 21:57 second.md
+
+$ cat content/post/first.md 
++++
+Categories = []
+Description = &amp;quot;&amp;quot;
+Tags = []
+date = &amp;quot;2014-09-29T21:54:53-05:00&amp;quot;
+title = &amp;quot;first&amp;quot;
+
++++
+my first post
+
+$ cat content/post/second.md 
++++
+Categories = []
+Description = &amp;quot;&amp;quot;
+Tags = []
+date = &amp;quot;2014-09-29T21:57:09-05:00&amp;quot;
+title = &amp;quot;second&amp;quot;
+
++++
+my second post
+
+$ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Build the web site and then verify the results.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rm -rf public
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 found taxonomies: map[string]string{&amp;quot;category&amp;quot;:&amp;quot;categories&amp;quot;, &amp;quot;tag&amp;quot;:&amp;quot;tags&amp;quot;}
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+2 pages created 
+0 tags created
+0 categories created
+in 4 ms
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The output says that it created 2 pages. Those are our new posts:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find public -type f -name &#39;*.html&#39; | xargs ls -l
+-rw-r--r--  1 quoha  staff  78 Sep 29 22:13 public/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:13 public/post/first/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:13 public/post/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:13 public/post/second/index.html
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The new files are empty because because the templates used to generate the content are empty. The homepage doesn&amp;rsquo;t show the new content, either. We have to update the templates to add the posts.&lt;/p&gt;
+
+&lt;h3 id=&#34;list-and-single-templates&#34;&gt;List and Single Templates&lt;/h3&gt;
+
+&lt;p&gt;In Hugo, we have three major kinds of templates. There&amp;rsquo;s the home page template that we updated previously. It is used only by the home page. We also have &amp;ldquo;single&amp;rdquo; templates which are used to generate output for a single content file. We also have &amp;ldquo;list&amp;rdquo; templates that are used to group multiple pieces of content before generating output.&lt;/p&gt;
+
+&lt;p&gt;Generally speaking, list templates are named &amp;ldquo;list.html&amp;rdquo; and single templates are named &amp;ldquo;single.html.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;There are three other types of templates: partials, content views, and terms. We will not go into much detail on these.&lt;/p&gt;
+
+&lt;h3 id=&#34;add-content-to-the-homepage&#34;&gt;Add Content to the Homepage&lt;/h3&gt;
+
+&lt;p&gt;The home page will contain a list of posts. Let&amp;rsquo;s update its template to add the posts that we just created. The logic in the template will run every time we build the site.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/index.html 
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+  {{ range first 10 .Data.Pages }}
+    &amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+  {{ end }}
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+:wq
+
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Hugo uses the Go template engine. That engine scans the template files for commands which are enclosed between &amp;ldquo;{{&amp;rdquo; and &amp;ldquo;}}&amp;rdquo;. In our template, the commands are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;range&lt;/li&gt;
+&lt;li&gt;.Title&lt;/li&gt;
+&lt;li&gt;end&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The &amp;ldquo;range&amp;rdquo; command is an iterator. We&amp;rsquo;re going to use it to go through the first ten pages. Every HTML file that Hugo creates is treated as a page, so looping through the list of pages will look at every file that will be created.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;.Title&amp;rdquo; command prints the value of the &amp;ldquo;title&amp;rdquo; variable. Hugo pulls it from the front matter in the Markdown file.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;end&amp;rdquo; command signals the end of the range iterator. The engine loops back to the top of the iteration when it finds &amp;ldquo;end.&amp;rdquo; Everything between the &amp;ldquo;range&amp;rdquo; and &amp;ldquo;end&amp;rdquo; is evaluated every time the engine goes through the iteration. In this file, that would cause the title from the first ten pages to be output as heading level one.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s helpful to remember that some variables, like .Data, are created before any output files. Hugo loads every content file into the variable and then gives the template a chance to process before creating the HTML files.&lt;/p&gt;
+
+&lt;p&gt;Build the web site and then verify the results.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rm -rf public
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 found taxonomies: map[string]string{&amp;quot;tag&amp;quot;:&amp;quot;tags&amp;quot;, &amp;quot;category&amp;quot;:&amp;quot;categories&amp;quot;}
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+2 pages created 
+0 tags created
+0 categories created
+in 4 ms
+$ find public -type f -name &#39;*.html&#39; | xargs ls -l 
+-rw-r--r--  1 quoha  staff  94 Sep 29 22:23 public/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/first/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/second/index.html
+$ cat public/index.html 
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+  
+    &amp;lt;h1&amp;gt;second&amp;lt;/h1&amp;gt;
+  
+    &amp;lt;h1&amp;gt;first&amp;lt;/h1&amp;gt;
+  
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Congratulations, the home page shows the title of the two posts. The posts themselves are still empty, but let&amp;rsquo;s take a moment to appreciate what we&amp;rsquo;ve done. Your template now generates output dynamically. Believe it or not, by inserting the range command inside of those curly braces, you&amp;rsquo;ve learned everything you need to know to build a theme. All that&amp;rsquo;s really left is understanding which template will be used to generate each content file and becoming familiar with the commands for the template engine.&lt;/p&gt;
+
+&lt;p&gt;And, if that were entirely true, this tutorial would be much shorter. There are a few things to know that will make creating a new template much easier. Don&amp;rsquo;t worry, though, that&amp;rsquo;s all to come.&lt;/p&gt;
+
+&lt;h3 id=&#34;add-content-to-the-posts&#34;&gt;Add Content to the Posts&lt;/h3&gt;
+
+&lt;p&gt;We&amp;rsquo;re working with posts, which are in the content/post/ directory. That means that their section is &amp;ldquo;post&amp;rdquo; (and if we don&amp;rsquo;t do something weird, their type is also &amp;ldquo;post&amp;rdquo;).&lt;/p&gt;
+
+&lt;p&gt;Hugo uses the section and type to find the template file for every piece of content. Hugo will first look for a template file that matches the section or type name. If it can&amp;rsquo;t find one, then it will look in the _default/ directory. There are some twists that we&amp;rsquo;ll cover when we get to categories and tags, but for now we can assume that Hugo will try post/single.html, then _default/single.html.&lt;/p&gt;
+
+&lt;p&gt;Now that we know the search rule, let&amp;rsquo;s see what we actually have available:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find themes/zafta -name single.html | xargs ls -l
+-rw-r--r--  1 quoha  staff  132 Sep 29 17:31 themes/zafta/layouts/_default/single.html
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We could create a new template, post/single.html, or change the default. Since we don&amp;rsquo;t know of any other content types, let&amp;rsquo;s start with updating the default.&lt;/p&gt;
+
+&lt;p&gt;Remember, any content that we haven&amp;rsquo;t created a template for will end up using this template. That can be good or bad. Bad because I know that we&amp;rsquo;re going to be adding different types of content and we&amp;rsquo;re going to end up undoing some of the changes we&amp;rsquo;ve made. It&amp;rsquo;s good because we&amp;rsquo;ll be able to see immediate results. It&amp;rsquo;s also good to start here because we can start to build the basic layout for the site. As we add more content types, we&amp;rsquo;ll refactor this file and move logic around. Hugo makes that fairly painless, so we&amp;rsquo;ll accept the cost and proceed.&lt;/p&gt;
+
+&lt;p&gt;Please see the Hugo documentation on template rendering for all the details on determining which template to use. And, as the docs mention, if you&amp;rsquo;re building a single page application (SPA) web site, you can delete all of the other templates and work with just the default single page. That&amp;rsquo;s a refreshing amount of joy right there.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-the-template-file&#34;&gt;Update the Template File&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/_default/single.html 
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+  &amp;lt;title&amp;gt;{{ .Title }}&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+  {{ .Content }}
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+:wq
+
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Build the web site and verify the results.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rm -rf public
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 found taxonomies: map[string]string{&amp;quot;tag&amp;quot;:&amp;quot;tags&amp;quot;, &amp;quot;category&amp;quot;:&amp;quot;categories&amp;quot;}
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+2 pages created 
+0 tags created
+0 categories created
+in 4 ms
+
+$ find public -type f -name &#39;*.html&#39; | xargs ls -l
+-rw-r--r--  1 quoha  staff   94 Sep 29 22:40 public/index.html
+-rw-r--r--  1 quoha  staff  125 Sep 29 22:40 public/post/first/index.html
+-rw-r--r--  1 quoha  staff    0 Sep 29 22:40 public/post/index.html
+-rw-r--r--  1 quoha  staff  128 Sep 29 22:40 public/post/second/index.html
+
+$ cat public/post/first/index.html 
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+  &amp;lt;title&amp;gt;first&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;h1&amp;gt;first&amp;lt;/h1&amp;gt;
+  &amp;lt;p&amp;gt;my first post&amp;lt;/p&amp;gt;
+
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+
+$ cat public/post/second/index.html 
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+  &amp;lt;title&amp;gt;second&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;h1&amp;gt;second&amp;lt;/h1&amp;gt;
+  &amp;lt;p&amp;gt;my second post&amp;lt;/p&amp;gt;
+
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Notice that the posts now have content. You can go to localhost:1313/post/first to verify.&lt;/p&gt;
+
+&lt;h3 id=&#34;linking-to-content&#34;&gt;Linking to Content&lt;/h3&gt;
+
+&lt;p&gt;The posts are on the home page. Let&amp;rsquo;s add a link from there to the post. Since this is the home page, we&amp;rsquo;ll update its template.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+  {{ range first 10 .Data.Pages }}
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;{{ .Permalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+  {{ end }}
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Build the web site and verify the results.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rm -rf public
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 found taxonomies: map[string]string{&amp;quot;tag&amp;quot;:&amp;quot;tags&amp;quot;, &amp;quot;category&amp;quot;:&amp;quot;categories&amp;quot;}
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+2 pages created 
+0 tags created
+0 categories created
+in 4 ms
+
+$ find public -type f -name &#39;*.html&#39; | xargs ls -l
+-rw-r--r--  1 quoha  staff  149 Sep 29 22:44 public/index.html
+-rw-r--r--  1 quoha  staff  125 Sep 29 22:44 public/post/first/index.html
+-rw-r--r--  1 quoha  staff    0 Sep 29 22:44 public/post/index.html
+-rw-r--r--  1 quoha  staff  128 Sep 29 22:44 public/post/second/index.html
+
+$ cat public/index.html 
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+  
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;/post/second/&amp;quot;&amp;gt;second&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+  
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;/post/first/&amp;quot;&amp;gt;first&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+  
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+
+$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;create-a-post-listing&#34;&gt;Create a Post Listing&lt;/h3&gt;
+
+&lt;p&gt;We have the posts displaying on the home page and on their own page. We also have a file public/post/index.html that is empty. Let&amp;rsquo;s make it show a list of all posts (not just the first ten).&lt;/p&gt;
+
+&lt;p&gt;We need to decide which template to update. This will be a listing, so it should be a list template. Let&amp;rsquo;s take a quick look and see which list templates are available.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find themes/zafta -name list.html | xargs ls -l
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;As with the single post, we have to decide to update _default/list.html or create post/list.html. We still don&amp;rsquo;t have multiple content types, so let&amp;rsquo;s stay consistent and update the default list template.&lt;/p&gt;
+
+&lt;h2 id=&#34;creating-top-level-pages&#34;&gt;Creating Top Level Pages&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s add an &amp;ldquo;about&amp;rdquo; page and display it at the top level (as opposed to a sub-level like we did with posts).&lt;/p&gt;
+
+&lt;p&gt;The default in Hugo is to use the directory structure of the content/ directory to guide the location of the generated html in the public/ directory. Let&amp;rsquo;s verify that by creating an &amp;ldquo;about&amp;rdquo; page at the top level:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi content/about.md 
++++
+title = &amp;quot;about&amp;quot;
+description = &amp;quot;about this site&amp;quot;
+date = &amp;quot;2014-09-27&amp;quot;
+slug = &amp;quot;about time&amp;quot;
++++
+
+## about us
+
+i&#39;m speechless
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Generate the web site and verify the results.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find public -name &#39;*.html&#39; | xargs ls -l
+-rw-rw-r--  1 mdhender  staff   334 Sep 27 15:08 public/about-time/index.html
+-rw-rw-r--  1 mdhender  staff   527 Sep 27 15:08 public/index.html
+-rw-rw-r--  1 mdhender  staff   358 Sep 27 15:08 public/post/first-post/index.html
+-rw-rw-r--  1 mdhender  staff     0 Sep 27 15:08 public/post/index.html
+-rw-rw-r--  1 mdhender  staff   342 Sep 27 15:08 public/post/second-post/index.html
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Notice that the page wasn&amp;rsquo;t created at the top level. It was created in a sub-directory named &amp;lsquo;about-time/&amp;rsquo;. That name came from our slug. Hugo will use the slug to name the generated content. It&amp;rsquo;s a reasonable default, by the way, but we can learn a few things by fighting it for this file.&lt;/p&gt;
+
+&lt;p&gt;One other thing. Take a look at the home page.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cat public/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;http://localhost:1313/post/theme/&amp;quot;&amp;gt;creating a new theme&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;http://localhost:1313/about-time/&amp;quot;&amp;gt;about&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;http://localhost:1313/post/second-post/&amp;quot;&amp;gt;second&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+    &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;http://localhost:1313/post/first-post/&amp;quot;&amp;gt;first&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
+&amp;lt;script&amp;gt;document.write(&#39;&amp;lt;script src=&amp;quot;http://&#39;
+        + (location.host || &#39;localhost&#39;).split(&#39;:&#39;)[0]
+		+ &#39;:1313/livereload.js?mindelay=10&amp;quot;&amp;gt;&amp;lt;/&#39;
+        + &#39;script&amp;gt;&#39;)&amp;lt;/script&amp;gt;&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Notice that the &amp;ldquo;about&amp;rdquo; link is listed with the posts? That&amp;rsquo;s not desirable, so let&amp;rsquo;s change that first.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/index.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;h1&amp;gt;posts&amp;lt;/h1&amp;gt;
+  {{ range first 10 .Data.Pages }}
+    {{ if eq .Type &amp;quot;post&amp;quot;}}
+      &amp;lt;h2&amp;gt;&amp;lt;a href=&amp;quot;{{ .Permalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;&amp;lt;/h2&amp;gt;
+    {{ end }}
+  {{ end }}
+
+  &amp;lt;h1&amp;gt;pages&amp;lt;/h1&amp;gt;
+  {{ range .Data.Pages }}
+    {{ if eq .Type &amp;quot;page&amp;quot; }}
+      &amp;lt;h2&amp;gt;&amp;lt;a href=&amp;quot;{{ .Permalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;&amp;lt;/h2&amp;gt;
+    {{ end }}
+  {{ end }}
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Generate the web site and verify the results. The home page has two sections, posts and pages, and each section has the right set of headings and links in it.&lt;/p&gt;
+
+&lt;p&gt;But, that about page still renders to about-time/index.html.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ find public -name &#39;*.html&#39; | xargs ls -l
+-rw-rw-r--  1 mdhender  staff    334 Sep 27 15:33 public/about-time/index.html
+-rw-rw-r--  1 mdhender  staff    645 Sep 27 15:33 public/index.html
+-rw-rw-r--  1 mdhender  staff    358 Sep 27 15:33 public/post/first-post/index.html
+-rw-rw-r--  1 mdhender  staff      0 Sep 27 15:33 public/post/index.html
+-rw-rw-r--  1 mdhender  staff    342 Sep 27 15:33 public/post/second-post/index.html
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Knowing that hugo is using the slug to generate the file name, the simplest solution is to change the slug. Let&amp;rsquo;s do it the hard way and change the permalink in the configuration file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi config.toml
+[permalinks]
+	page = &amp;quot;/:title/&amp;quot;
+	about = &amp;quot;/:filename/&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Generate the web site and verify that this didn&amp;rsquo;t work. Hugo lets &amp;ldquo;slug&amp;rdquo; or &amp;ldquo;URL&amp;rdquo; override the permalinks setting in the configuration file. Go ahead and comment out the slug in content/about.md, then generate the web site to get it to be created in the right place.&lt;/p&gt;
+
+&lt;h2 id=&#34;sharing-templates&#34;&gt;Sharing Templates&lt;/h2&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve been following along, you probably noticed that posts have titles in the browser and the home page doesn&amp;rsquo;t. That&amp;rsquo;s because we didn&amp;rsquo;t put the title in the home page&amp;rsquo;s template (layouts/index.html). That&amp;rsquo;s an easy thing to do, but let&amp;rsquo;s look at a different option.&lt;/p&gt;
+
+&lt;p&gt;We can put the common bits into a shared template that&amp;rsquo;s stored in the themes/zafta/layouts/partials/ directory.&lt;/p&gt;
+
+&lt;h3 id=&#34;create-the-header-and-footer-partials&#34;&gt;Create the Header and Footer Partials&lt;/h3&gt;
+
+&lt;p&gt;In Hugo, a partial is a sugar-coated template. Normally a template reference has a path specified. Partials are different. Hugo searches for them along a TODO defined search path. This makes it easier for end-users to override the theme&amp;rsquo;s presentation.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/partials/header.html
+&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+	&amp;lt;title&amp;gt;{{ .Title }}&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+:wq
+
+$ vi themes/zafta/layouts/partials/footer.html
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;update-the-home-page-template-to-use-the-partials&#34;&gt;Update the Home Page Template to Use the Partials&lt;/h3&gt;
+
+&lt;p&gt;The most noticeable difference between a template call and a partials call is the lack of path:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ template &amp;quot;theme/partials/header.html&amp;quot; . }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;versus&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ partial &amp;quot;header.html&amp;quot; . }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Both pass in the context.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s change the home page template to use these new partials.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/index.html
+{{ partial &amp;quot;header.html&amp;quot; . }}
+
+  &amp;lt;h1&amp;gt;posts&amp;lt;/h1&amp;gt;
+  {{ range first 10 .Data.Pages }}
+    {{ if eq .Type &amp;quot;post&amp;quot;}}
+      &amp;lt;h2&amp;gt;&amp;lt;a href=&amp;quot;{{ .Permalink }}&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;&amp;lt;/h2&amp;gt;
+    {{ end }}
+  {{ end }}
+
+  &amp;lt;h1&amp;gt;pages&amp;lt;/h1&amp;gt;
+  {{ range .Data.Pages }}
+    {{ if or (eq .Type &amp;quot;page&amp;quot;) (eq .Type &amp;quot;about&amp;quot;) }}
+      &amp;lt;h2&amp;gt;&amp;lt;a href=&amp;quot;{{ .Permalink }}&amp;quot;&amp;gt;{{ .Type }} - {{ .Title }} - {{ .RelPermalink }}&amp;lt;/a&amp;gt;&amp;lt;/h2&amp;gt;
+    {{ end }}
+  {{ end }}
+
+{{ partial &amp;quot;footer.html&amp;quot; . }}
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Generate the web site and verify the results. The title on the home page is now &amp;ldquo;your title here&amp;rdquo;, which comes from the &amp;ldquo;title&amp;rdquo; variable in the config.toml file.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-the-default-single-template-to-use-the-partials&#34;&gt;Update the Default Single Template to Use the Partials&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/_default/single.html
+{{ partial &amp;quot;header.html&amp;quot; . }}
+
+  &amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+  {{ .Content }}
+
+{{ partial &amp;quot;footer.html&amp;quot; . }}
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Generate the web site and verify the results. The title on the posts and the about page should both reflect the value in the markdown file.&lt;/p&gt;
+
+&lt;h2 id=&#34;add-date-published-to-posts&#34;&gt;Add “Date Published” to Posts&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s common to have posts display the date that they were written or published, so let&amp;rsquo;s add that. The front matter of our posts has a variable named &amp;ldquo;date.&amp;rdquo; It&amp;rsquo;s usually the date the content was created, but let&amp;rsquo;s pretend that&amp;rsquo;s the value we want to display.&lt;/p&gt;
+
+&lt;h3 id=&#34;add-date-published-to-the-template&#34;&gt;Add “Date Published” to the Template&lt;/h3&gt;
+
+&lt;p&gt;We&amp;rsquo;ll start by updating the template used to render the posts. The template code will look like:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ .Date.Format &amp;quot;Mon, Jan 2, 2006&amp;quot; }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Posts use the default single template, so we&amp;rsquo;ll change that file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/_default/single.html
+{{ partial &amp;quot;header.html&amp;quot; . }}
+
+  &amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+  &amp;lt;h2&amp;gt;{{ .Date.Format &amp;quot;Mon, Jan 2, 2006&amp;quot; }}&amp;lt;/h2&amp;gt;
+  {{ .Content }}
+
+{{ partial &amp;quot;footer.html&amp;quot; . }}
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Generate the web site and verify the results. The posts now have the date displayed in them. There&amp;rsquo;s a problem, though. The &amp;ldquo;about&amp;rdquo; page also has the date displayed.&lt;/p&gt;
+
+&lt;p&gt;As usual, there are a couple of ways to make the date display only on posts. We could do an &amp;ldquo;if&amp;rdquo; statement like we did on the home page. Another way would be to create a separate template for posts.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;if&amp;rdquo; solution works for sites that have just a couple of content types. It aligns with the principle of &amp;ldquo;code for today,&amp;rdquo; too.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s assume, though, that we&amp;rsquo;ve made our site so complex that we feel we have to create a new template type. In Hugo-speak, we&amp;rsquo;re going to create a section template.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s restore the default single template before we forget.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ mkdir themes/zafta/layouts/post
+$ vi themes/zafta/layouts/_default/single.html
+{{ partial &amp;quot;header.html&amp;quot; . }}
+
+  &amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+  {{ .Content }}
+
+{{ partial &amp;quot;footer.html&amp;quot; . }}
+:wq
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now we&amp;rsquo;ll update the post&amp;rsquo;s version of the single template. If you remember Hugo&amp;rsquo;s rules, the template engine will use this version over the default.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/layouts/post/single.html
+{{ partial &amp;quot;header.html&amp;quot; . }}
+
+  &amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+  &amp;lt;h2&amp;gt;{{ .Date.Format &amp;quot;Mon, Jan 2, 2006&amp;quot; }}&amp;lt;/h2&amp;gt;
+  {{ .Content }}
+
+{{ partial &amp;quot;footer.html&amp;quot; . }}
+:wq
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note that we removed the date logic from the default template and put it in the post template. Generate the web site and verify the results. Posts have dates and the about page doesn&amp;rsquo;t.&lt;/p&gt;
+
+&lt;h3 id=&#34;don-t-repeat-yourself&#34;&gt;Don&amp;rsquo;t Repeat Yourself&lt;/h3&gt;
+
+&lt;p&gt;DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&amp;rsquo;re figuring that out, accept that you&amp;rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&amp;rsquo;s okay to delay splitting up a template.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>http://anitanagarajan.com/blog/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://anitanagarajan.com/blog/goisforlovers/</guid>
+      <description>
+
+&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34; target=&#34;_blank&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34; target=&#34;_blank&#34;&gt;html/template&lt;/a&gt; library for
+its template engine. It is an extremely lightweight engine that provides a very
+small amount of logic. In our experience that it is just the right amount of
+logic to be able to create a good static website. If you have used other
+template systems from different languages or frameworks you will find a lot of
+similarities in go templates.&lt;/p&gt;
+
+&lt;p&gt;This document is a brief primer on using go templates. The &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34; target=&#34;_blank&#34;&gt;go docs&lt;/a&gt;
+provide more details.&lt;/p&gt;
+
+&lt;h2 id=&#34;introduction-to-go-templates&#34;&gt;Introduction to Go Templates&lt;/h2&gt;
+
+&lt;p&gt;Go templates provide an extremely simple template language. It adheres to the
+belief that only the most basic of logic belongs in the template or view layer.
+One consequence of this simplicity is that go templates parse very quickly.&lt;/p&gt;
+
+&lt;p&gt;A unique characteristic of go templates is they are content aware. Variables and
+content will be sanitized depending on the context of where they are used. More
+details can be found in the &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34; target=&#34;_blank&#34;&gt;go docs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;basic-syntax&#34;&gt;Basic Syntax&lt;/h2&gt;
+
+&lt;p&gt;Go lang templates are html files with the addition of variables and
+functions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Go variables and functions are accessible within {{ }}&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Accessing a predefined variable &amp;ldquo;foo&amp;rdquo;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ foo }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Parameters are separated using spaces&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Calling the add function with input of 1, 2:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ add 1 2 }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Methods and fields are accessed via dot notation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Accessing the Page Parameter &amp;ldquo;bar&amp;rdquo;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ .Params.bar }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Parentheses can be used to group items together&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ if or (isset .Params &amp;quot;alt&amp;quot;) (isset .Params &amp;quot;caption&amp;quot;) }} Caption {{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;variables&#34;&gt;Variables&lt;/h2&gt;
+
+&lt;p&gt;Each go template has a struct (object) made available to it. In hugo each
+template is passed either a page or a node struct depending on which type of
+page you are rendering. More details are available on the
+&lt;a href=&#34;http://anitanagarajan.com/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;p&gt;A variable is accessed by referencing the variable name.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;title&amp;gt;{{ .Title }}&amp;lt;/title&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Variables can also be defined and referenced.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ $address := &amp;quot;123 Main St.&amp;quot;}}
+{{ $address }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;functions&#34;&gt;Functions&lt;/h2&gt;
+
+&lt;p&gt;Go template ship with a few functions which provide basic functionality. The go
+template system also provides a mechanism for applications to extend the
+available functions with their own. &lt;a href=&#34;http://anitanagarajan.com/layout/functions&#34;&gt;Hugo template
+functions&lt;/a&gt; provide some additional functionality we believe
+are useful for building websites. Functions are called by using their name
+followed by the required parameters separated by spaces. Template
+functions cannot be added without recompiling hugo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ add 1 2 }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;includes&#34;&gt;Includes&lt;/h2&gt;
+
+&lt;p&gt;When including another template you will pass to it the data it will be
+able to access. To pass along the current context please remember to
+include a trailing dot. The templates location will always be starting at
+the /layout/ directory within Hugo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ template &amp;quot;chrome/header.html&amp;quot; . }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;logic&#34;&gt;Logic&lt;/h2&gt;
+
+&lt;p&gt;Go templates provide the most basic iteration and conditional logic.&lt;/p&gt;
+
+&lt;h3 id=&#34;iteration&#34;&gt;Iteration&lt;/h3&gt;
+
+&lt;p&gt;Just like in go, the go templates make heavy use of range to iterate over
+a map, array or slice. The following are different examples of how to use
+range.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 1: Using Context&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ range array }} 
+    {{ . }}
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2: Declaring value variable name&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{range $element := array}} 
+    {{ $element }} 
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2: Declaring key and value variable name&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{range $index, $element := array}}
+    {{ $index }} 
+    {{ $element }} 
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;conditionals&#34;&gt;Conditionals&lt;/h3&gt;
+
+&lt;p&gt;If, else, with, or, &amp;amp; and provide the framework for handling conditional
+logic in Go Templates. Like range, each statement is closed with &lt;code&gt;end&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Go Templates treat the following values as false:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;false&lt;/li&gt;
+&lt;li&gt;0&lt;/li&gt;
+&lt;li&gt;any array, slice, map, or string of length zero&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 1: If&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ if isset .Params &amp;quot;title&amp;quot; }}&amp;lt;h4&amp;gt;{{ index .Params &amp;quot;title&amp;quot; }}&amp;lt;/h4&amp;gt;{{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2: If -&amp;gt; Else&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ if isset .Params &amp;quot;alt&amp;quot; }} 
+    {{ index .Params &amp;quot;alt&amp;quot; }}
+{{else}}
+    {{ index .Params &amp;quot;caption&amp;quot; }}
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 3: And &amp;amp; Or&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ if and (or (isset .Params &amp;quot;title&amp;quot;) (isset .Params &amp;quot;caption&amp;quot;)) (isset .Params &amp;quot;attr&amp;quot;)}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 4: With&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;An alternative way of writing &amp;ldquo;if&amp;rdquo; and then referencing the same value
+is to use &amp;ldquo;with&amp;rdquo; instead. With rebinds the context &lt;code&gt;.&lt;/code&gt; within its scope,
+and skips the block if the variable is absent.&lt;/p&gt;
+
+&lt;p&gt;The first example above could be simplified as:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ with .Params.title }}&amp;lt;h4&amp;gt;{{ . }}&amp;lt;/h4&amp;gt;{{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 5: If -&amp;gt; Else If&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ if isset .Params &amp;quot;alt&amp;quot; }} 
+    {{ index .Params &amp;quot;alt&amp;quot; }}
+{{ else if isset .Params &amp;quot;caption&amp;quot; }}
+    {{ index .Params &amp;quot;caption&amp;quot; }}
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;pipes&#34;&gt;Pipes&lt;/h2&gt;
+
+&lt;p&gt;One of the most powerful components of go templates is the ability to
+stack actions one after another. This is done by using pipes. Borrowed
+from unix pipes, the concept is simple, each pipeline&amp;rsquo;s output becomes the
+input of the following pipe.&lt;/p&gt;
+
+&lt;p&gt;Because of the very simple syntax of go templates, the pipe is essential
+to being able to chain together function calls. One limitation of the
+pipes is that they only can work with a single value and that value
+becomes the last parameter of the next pipeline.&lt;/p&gt;
+
+&lt;p&gt;A few simple examples should help convey how to use the pipe.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 1 :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ if eq 1 1 }} Same {{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;is the same as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ eq 1 1 | if }} Same {{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;It does look odd to place the if at the end, but it does provide a good
+illustration of how to use the pipes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2 :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ index .Params &amp;quot;disqus_url&amp;quot; | html }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Access the page parameter called &amp;ldquo;disqus_url&amp;rdquo; and escape the HTML.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 3 :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{ if or (or (isset .Params &amp;quot;title&amp;quot;) (isset .Params &amp;quot;caption&amp;quot;)) (isset .Params &amp;quot;attr&amp;quot;)}}
+Stuff Here
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Could be rewritten as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{  isset .Params &amp;quot;caption&amp;quot; | or isset .Params &amp;quot;title&amp;quot; | or isset .Params &amp;quot;attr&amp;quot; | if }}
+Stuff Here 
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;context-aka-the-dot&#34;&gt;Context (aka. the dot)&lt;/h2&gt;
+
+&lt;p&gt;The most easily overlooked concept to understand about go templates is that {{ . }}
+always refers to the current context. In the top level of your template this
+will be the data set made available to it. Inside of a iteration it will have
+the value of the current item. When inside of a loop the context has changed. .
+will no longer refer to the data available to the entire page. If you need to
+access this from within the loop you will likely want to set it to a variable
+instead of depending on the context.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  {{ $title := .Site.Title }}
+  {{ range .Params.tags }}
+    &amp;lt;li&amp;gt; &amp;lt;a href=&amp;quot;{{ $baseurl }}/tags/{{ . | urlize }}&amp;quot;&amp;gt;{{ . }}&amp;lt;/a&amp;gt; - {{ $title }} &amp;lt;/li&amp;gt;
+  {{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Notice how once we have entered the loop the value of {{ . }} has changed. We
+have defined a variable outside of the loop so we have access to it from within
+the loop.&lt;/p&gt;
+
+&lt;h1 id=&#34;hugo-parameters&#34;&gt;Hugo Parameters&lt;/h1&gt;
+
+&lt;p&gt;Hugo provides the option of passing values to the template language
+through the site configuration (for sitewide values), or through the meta
+data of each specific piece of content. You can define any values of any
+type (supported by your front matter/config format) and use them however
+you want to inside of your templates.&lt;/p&gt;
+
+&lt;h2 id=&#34;using-content-page-parameters&#34;&gt;Using Content (page) Parameters&lt;/h2&gt;
+
+&lt;p&gt;In each piece of content you can provide variables to be used by the
+templates. This happens in the &lt;a href=&#34;http://anitanagarajan.com/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An example of this is used in this documentation site. Most of the pages
+benefit from having the table of contents provided. Sometimes the TOC just
+doesn&amp;rsquo;t make a lot of sense. We&amp;rsquo;ve defined a variable in our front matter
+of some pages to turn off the TOC from being displayed.&lt;/p&gt;
+
+&lt;p&gt;Here is the example front matter:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+title: &amp;quot;Permalinks&amp;quot;
+date: &amp;quot;2013-11-18&amp;quot;
+aliases:
+  - &amp;quot;/doc/permalinks/&amp;quot;
+groups: [&amp;quot;extras&amp;quot;]
+groups_weight: 30
+notoc: true
+---
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here is the corresponding code inside of the template:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  {{ if not .Params.notoc }}
+    &amp;lt;div id=&amp;quot;toc&amp;quot; class=&amp;quot;well col-md-4 col-sm-6&amp;quot;&amp;gt;
+    {{ .TableOfContents }}
+    &amp;lt;/div&amp;gt;
+  {{ end }}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;using-site-config-parameters&#34;&gt;Using Site (config) Parameters&lt;/h2&gt;
+
+&lt;p&gt;In your top-level configuration file (eg, &lt;code&gt;config.yaml&lt;/code&gt;) you can define site
+parameters, which are values which will be available to you in chrome.&lt;/p&gt;
+
+&lt;p&gt;For instance, you might declare:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-yaml&#34;&gt;params:
+  CopyrightHTML: &amp;quot;Copyright &amp;amp;#xA9; 2013 John Doe. All Rights Reserved.&amp;quot;
+  TwitterUser: &amp;quot;spf13&amp;quot;
+  SidebarRecentLimit: 5
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Within a footer layout, you might then declare a &lt;code&gt;&amp;lt;footer&amp;gt;&lt;/code&gt; which is only
+provided if the &lt;code&gt;CopyrightHTML&lt;/code&gt; parameter is provided, and if it is given,
+you would declare it to be HTML-safe, so that the HTML entity is not escaped
+again.  This would let you easily update just your top-level config file each
+January 1st, instead of hunting through your templates.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{if .Site.Params.CopyrightHTML}}&amp;lt;footer&amp;gt;
+&amp;lt;div class=&amp;quot;text-center&amp;quot;&amp;gt;{{.Site.Params.CopyrightHTML | safeHtml}}&amp;lt;/div&amp;gt;
+&amp;lt;/footer&amp;gt;{{end}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;An alternative way of writing the &amp;ldquo;if&amp;rdquo; and then referencing the same value
+is to use &amp;ldquo;with&amp;rdquo; instead. With rebinds the context &lt;code&gt;.&lt;/code&gt; within its scope,
+and skips the block if the variable is absent:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{with .Site.Params.TwitterUser}}&amp;lt;span class=&amp;quot;twitter&amp;quot;&amp;gt;
+&amp;lt;a href=&amp;quot;https://twitter.com/{{.}}&amp;quot; rel=&amp;quot;author&amp;quot;&amp;gt;
+&amp;lt;img src=&amp;quot;/images/twitter.png&amp;quot; width=&amp;quot;48&amp;quot; height=&amp;quot;48&amp;quot; title=&amp;quot;Twitter: {{.}}&amp;quot;
+ alt=&amp;quot;Twitter&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+&amp;lt;/span&amp;gt;{{end}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Finally, if you want to pull &amp;ldquo;magic constants&amp;rdquo; out of your layouts, you can do
+so, such as in this example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;nav class=&amp;quot;recent&amp;quot;&amp;gt;
+  &amp;lt;h1&amp;gt;Recent Posts&amp;lt;/h1&amp;gt;
+  &amp;lt;ul&amp;gt;{{range first .Site.Params.SidebarRecentLimit .Site.Recent}}
+    &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;{{.RelPermalink}}&amp;quot;&amp;gt;{{.Title}}&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+  {{end}}&amp;lt;/ul&amp;gt;
+&amp;lt;/nav&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>http://anitanagarajan.com/blog/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://anitanagarajan.com/blog/hugoisforlovers/</guid>
+      <description>
+
+&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
+
+&lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34; target=&#34;_blank&#34;&gt;hugo releases&lt;/a&gt; and download the
+appropriate version for your os and architecture.&lt;/p&gt;
+
+&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
+
+&lt;p&gt;More complete instructions are available at &lt;a href=&#34;http://anitanagarajan.com/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;Step 2. Build the Docs&lt;/h2&gt;
+
+&lt;p&gt;Hugo has its own example site which happens to also be the documentation site
+you are reading right now.&lt;/p&gt;
+
+&lt;p&gt;Follow the following steps:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Clone the &lt;a href=&#34;http://github.com/spf13/hugo&#34; target=&#34;_blank&#34;&gt;hugo repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Go into the repo&lt;/li&gt;
+&lt;li&gt;Run hugo in server mode and build the docs&lt;/li&gt;
+&lt;li&gt;Open your browser to &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;http://localhost:1313&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Corresponding pseudo commands:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/spf13/hugo
+cd hugo
+/path/to/where/you/installed/hugo server --source=./docs
+&amp;gt; 29 pages created
+&amp;gt; 0 tags index created
+&amp;gt; in 27 ms
+&amp;gt; Web Server is available at http://localhost:1313
+&amp;gt; Press ctrl+c to stop
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve gotten here, follow along the rest of this page on your local build.&lt;/p&gt;
+
+&lt;h2 id=&#34;step-3-change-the-docs-site&#34;&gt;Step 3. Change the docs site&lt;/h2&gt;
+
+&lt;p&gt;Stop the Hugo process by hitting ctrl+c.&lt;/p&gt;
+
+&lt;p&gt;Now we are going to run hugo again, but this time with hugo in watch mode.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/path/to/hugo/from/step/1/hugo server --source=./docs --watch
+&amp;gt; 29 pages created
+&amp;gt; 0 tags index created
+&amp;gt; in 27 ms
+&amp;gt; Web Server is available at http://localhost:1313
+&amp;gt; Watching for changes in /Users/spf13/Code/hugo/docs/content
+&amp;gt; Press ctrl+c to stop
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Open your &lt;a href=&#34;http://vim.spf13.com&#34; target=&#34;_blank&#34;&gt;favorite editor&lt;/a&gt; and change one of the source
+content pages. How about changing this very file to &lt;em&gt;fix the typo&lt;/em&gt;. How about changing this very file to &lt;em&gt;fix the typo&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Content files are found in &lt;code&gt;docs/content/&lt;/code&gt;. Unless otherwise specified, files
+are located at the same relative location as the url, in our case
+&lt;code&gt;docs/content/overview/quickstart.md&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Change and save this file.. Notice what happened in your terminal.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;gt; Change detected, rebuilding site
+
+&amp;gt; 29 pages created
+&amp;gt; 0 tags index created
+&amp;gt; in 26 ms
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Refresh the browser and observe that the typo is now fixed.&lt;/p&gt;
+
+&lt;p&gt;Notice how quick that was. Try to refresh the site before it&amp;rsquo;s finished building.. I double dare you.
+Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.&lt;/p&gt;
+
+&lt;h2 id=&#34;step-4-have-fun&#34;&gt;Step 4. Have fun&lt;/h2&gt;
+
+&lt;p&gt;The best way to learn something is to play with it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
